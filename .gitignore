@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# build outputs (harness, not yet built)
+generations/*.md
+!generations/.gitkeep
