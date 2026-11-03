@@ -245,17 +245,17 @@
       "start": 873,
       "end": 944,
       "text": "The cooler holds ice, which chills the fog before it reaches the chest.",
-      "tier": "KEY",
-      "ground": "",
+      "tier": "STEERED",
+      "ground": "the cooler holds ice, and the ice chills the fog before it reaches the treasure chest",
       "vrgb": {
-        "concrete_abstract": null,
+        "concrete_abstract": -0.8,
         "individual_collective": null,
         "past_future": null
       },
       "calibration": {
         "speculation": null,
         "tone": null,
-        "density": null
+        "density": 0.2
       }
     },
     {

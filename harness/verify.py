@@ -79,6 +79,18 @@ def readout(repo_root):
 
 if __name__ == "__main__":
     root = Path(__file__).resolve().parent.parent
+
+    if "--chain" in sys.argv:
+        from . import custody
+        from . import jeff_bridge
+        pins = jeff_bridge.load_pins(root)
+        ok, report = custody.walk_chain(root, pins)
+        for line in report:
+            print(line)
+        if not ok:
+            sys.exit(1)
+        sys.exit(0)
+
     floor = floor_check(root)
     if floor["ok"]:
         print("floor OK -- all-KEY reconstruction is byte-identical to the locked essay")

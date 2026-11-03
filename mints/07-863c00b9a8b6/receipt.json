@@ -1,0 +1,69 @@
+{
+  "body": {
+    "schema": "modern-animatronics/custody/1",
+    "minted_at": "2026-11-03T18:11:31Z",
+    "prev": "3da474f216bd51937d0353d1e5900fa87062e4752d6e6d1e3e894c39f8dd18c8",
+    "dataset": {
+      "files": {
+        "coords/00.json": "32443224bde6fafb709e1fe799daf5eccdf7ae848c5099643d1eb7c3e548c88f",
+        "coords/01.json": "26218381032d83e2bad34e3e88a65ed6a3fd1d0ed8d68a643168d8fb821c6f40",
+        "coords/02.json": "2b1ba8e16e7fc0f5a4da04012794854989410448465990bebf4d4a9c2ac41e93",
+        "coords/03.json": "678917eabfd39b4f23d8fdc58c302132b78a4357ce7b244f13e0ef5c78795c1d",
+        "coords/04.json": "df607ba7863add871dba95f0c8180dab7d9bdd04d12a2fda4d79bfb070022dd7",
+        "coords/05.json": "e332de7afe99adf3144f0da2e6f2992a389923cbe4b94164ee2b30eebd9056a2",
+        "coords/06.json": "1420f5fc396e5c313f4453ffb9cd4daae2cad68d4bdf78f6c758de71cf5014d2",
+        "coords/07.json": "f87d756c43f699e681ebaacc3be9886cfba40be614f159c20f4cbe8f620939f5",
+        "coords/08.json": "5d65ea2ff0b0856fa45b48cde37201667bd0c7de699d97d4be8e7ac9bd06f310",
+        "coords/09.json": "20445c85e718d80e7bbcff6299af5dcc9d95a4e0e33a51a2654a793ef2c302d0",
+        "coords/10.json": "fda6fb1b670966f989dfcfd3bc80c76749df26b6826ca51dc2860d2eb8f38e12",
+        "coords/11.json": "b246cd9b9b29a4c3d168e13a8ccccdce7ae245cae86f8a504964e9f908f77a9a",
+        "coords/12.json": "11eafec020698d1b09177db429a0a7e5c24294935826bbb096e0fb40627ac11d",
+        "coords/13.json": "5683c4bd82ed67893d84048fa6faf8e8704d441c7379086ec827bce6ddc983da",
+        "coords/14.json": "846190bfe0609ec75bd2dc2a81d8f10d58e93b7dc48b6c5de05295a68e8ba910",
+        "coords/15.json": "c4759b2b5f57950b5d021200c034a0fc5e6b1d820e9e91ce27be9574251d5de1",
+        "coords/16.json": "7c4bca6cad1e8e8053ffdb982cf2b3bcce4e36a9d773f94c1de1ed31120aafc7",
+        "coords/17.json": "013d3272646bf55c172bd3e714508035d6a37ce33c7ad54b8c62004ffc12a677",
+        "coords/18.json": "1a1fe73414bdf3c1cda2ac9c0c819b1ad10dfebe082c03c7f5b066422b9b4e55",
+        "coords/_doc.json": "c609e56ea42119093c0af683a0c226a1eac30ae458b7ba7596f85a5c2bfa2278",
+        "coords/_voice.json": "961df750e23175cb5824b4500cbd37f6b08c5664949822b29d43aa29a0430115"
+      },
+      "source": {
+        "path": "source/essay.locked.md",
+        "sha256": "c92101874d3f07bf87cd226ff3bdf0a598781add0c97d137f9eccb670665f4fc"
+      },
+      "dataset_root": "fe18c7870b78c2c077dc2bf57044655c3269258a05461fe02dfc7f38c6f7542b"
+    },
+    "model": {
+      "model_ref": "engine/llama3.2-3b-touchstone",
+      "card": "sd:touchstone",
+      "decode": {
+        "temperature": 0.7,
+        "seed": 2
+      },
+      "human_anchor": "ctx_model_engine_llama3_2_3b_touchstone_1782432460",
+      "gguf_ok": true
+    },
+    "output": {
+      "sha256": "78ef40ab56d57ee36e01264e76dcdbc7444833e5f20ba1bdfd12db762792022a",
+      "bytes": 18800,
+      "steered": 1
+    },
+    "per_sentence": [
+      {
+        "section": 2,
+        "sentence": 14,
+        "ground": "the cooler holds ice, and the ice chills the fog before it reaches the treasure chest",
+        "prompt_sha256": "817694054d4807de2cd041705be8b54bacff40af2dc9944ab00c95b699d19eca",
+        "text": "The pump attached to the fog machine is set to 3.75 psi, creating a steady flow of mist that will condense on the glass surface of the treasure chest.",
+        "text_sha256": "c9682a30fc880a789e1be37dd61cec0e8c8d46be0c781ab1480eed3133a02b56",
+        "byline": "llama3.2-3b",
+        "human_anchor": "ctx_model_engine_llama3_2_3b_touchstone_1782432460",
+        "gguf_ok": true
+      }
+    ]
+  },
+  "body_sha256": "732b5029678e429d7b5ae7cfd7a331cd3c1776f7102f780ea0c4f2b48502d186",
+  "signer": "e8f2097f81af3d69",
+  "signature": "LJyAJXEELu40Or1ChbeU5fXkjYmQBiei1XxRBlkZkd9mpZEPovGf+noreUFA088r+EBzZ1NW5IarJWJnw1RrCw==",
+  "receipt_sha256": "863c00b9a8b62fbca8708afb4100656225758e70665100ea8ebc2e10808ddac4"
+}

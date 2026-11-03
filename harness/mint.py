@@ -58,27 +58,54 @@ def build_plan(repo_root):
 
 
 def mint(repo_root, write=True):
+    out, records = mint_detailed(repo_root, write=write)
+    return out, len(records)
+
+
+def mint_detailed(repo_root, write=True, pins=None):
+    """Mint, and return (out, per_sentence_records).
+
+    Each STEERED sentence yields a record of exactly what the model was asked and
+    what it returned -- the raw material the custody receipt binds. KEY sentences
+    produce no record because the model never sees them.
+
+    pins may be supplied to override the on-disk pins (e.g. to mint the same
+    locked dataset through a different gated model). Defaults to pins.json.
+    """
+    from . import custody
+
     _index, sections = record.load_doc(repo_root)
     voice = record.load_voice(repo_root)
-    pins = jeff_bridge.load_pins(repo_root)
+    pins = pins or jeff_bridge.load_pins(repo_root)
 
     rendered = {}
-    steered = 0
+    records = []
     for section in sections:
         for i, sent in enumerate(section["sentences"]):
             if sent["tier"] != record.STEERED:
                 continue
-            steered += 1
             system, prompt = prompt_mod.build_prompt(sent, voice)
-            text, _receipt = jeff_bridge.mint_one(pins, system, prompt)
+            text, receipt = jeff_bridge.mint_one(pins, system, prompt)
             rendered[(section["index"], i)] = text
+            verification = receipt.get("verification", {})
+            records.append({
+                "section": section["index"],
+                "sentence": i,
+                "ground": sent.get("ground", ""),
+                "prompt_sha256": custody.sha256_bytes(system + "\n" + prompt),
+                "text": text,
+                "text_sha256": custody.sha256_bytes(text),
+                "byline": receipt.get("byline"),
+                "human_anchor": verification.get("human_anchor"),
+                "gguf_ok": verification.get("gguf_ok"),
+            })
 
     out = "".join(rebuild_section(section, rendered) for section in sections)
 
     if write:
         dest = Path(repo_root) / "generations" / "essay.minted.md"
         dest.write_text(out)
-    return out, steered
+    return out, records
 
 
 if __name__ == "__main__":
