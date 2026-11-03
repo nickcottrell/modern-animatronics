@@ -1,0 +1,279 @@
+{
+  "index": 10,
+  "doc_offset": 9393,
+  "raw": "***\n\nThose questions take you to Claude Shannon and Norbert Wiener.\n\nShannon was a mathematician at Bell Labs who helped establish the foundations of digital communication. In 1948, he published a mathematical theory of how information could be measured, encoded, and transmitted reliably through imperfect channels. If I am sending instructions through sound, or flashing pieces of a message across a screen, I am working in territory he helped map.\n\nThat same year, the MIT mathematician Norbert Wiener published *Cybernetics*, bringing communication and control into a common framework. A machine acting on instructions was part of the picture. A machine receiving information about the consequences of its actions, and adjusting, was where things became especially interesting.\n\nThe distinction becomes quite practical on the porch.\n\nI could send a perfectly good command to the fog machine and still get disappointing fog. The message arrived. The ice melted. Those are different problems.\n\nA recorded show can run through its instructions. A responsive show needs some way to discover what is happening around it.\n\nAt present, mine discovers this when I come outside.\n\nWhich I do frequently enough that the neighbors could reasonably assume I am expecting a boat.\n\n",
+  "sentences": [
+    {
+      "start": 5,
+      "end": 67,
+      "text": "Those questions take you to Claude Shannon and Norbert Wiener.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 69,
+      "end": 172,
+      "text": "Shannon was a mathematician at Bell Labs who helped establish the foundations of digital communication.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 173,
+      "end": 316,
+      "text": "In 1948, he published a mathematical theory of how information could be measured, encoded, and transmitted reliably through imperfect channels.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 317,
+      "end": 450,
+      "text": "If I am sending instructions through sound, or flashing pieces of a message across a screen, I am working in territory he helped map.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 452,
+      "end": 589,
+      "text": "That same year, the MIT mathematician Norbert Wiener published *Cybernetics*, bringing communication and control into a common framework.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 590,
+      "end": 647,
+      "text": "A machine acting on instructions was part of the picture.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 648,
+      "end": 781,
+      "text": "A machine receiving information about the consequences of its actions, and adjusting, was where things became especially interesting.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 783,
+      "end": 836,
+      "text": "The distinction becomes quite practical on the porch.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 838,
+      "end": 927,
+      "text": "I could send a perfectly good command to the fog machine and still get disappointing fog.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 928,
+      "end": 948,
+      "text": "The message arrived.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 949,
+      "end": 964,
+      "text": "The ice melted.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 965,
+      "end": 994,
+      "text": "Those are different problems.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 996,
+      "end": 1045,
+      "text": "A recorded show can run through its instructions.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1046,
+      "end": 1119,
+      "text": "A responsive show needs some way to discover what is happening around it.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1121,
+      "end": 1173,
+      "text": "At present, mine discovers this when I come outside.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1175,
+      "end": 1269,
+      "text": "Which I do frequently enough that the neighbors could reasonably assume I am expecting a boat.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    }
+  ]
+}

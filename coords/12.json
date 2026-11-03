@@ -1,0 +1,296 @@
+{
+  "index": 12,
+  "doc_offset": 11069,
+  "raw": "***\n\nThere is a small problem with my attraction.\n\nNobody approaches it at the beginning.\n\nI have been watching whole cycles, making adjustments, waiting for the fog and sound and movement to arrive at the relationship I have in mind. Someone coming up the sidewalk encounters whatever happens to be happening.\n\nThey might get the good part. They might get a bird conducting business over an empty chest.\n\nThis is becoming unacceptable to management.\n\nThe obvious improvement would be to make the porch respond to an arrival.\n\nThen I need to decide what counts as an arrival. A person approaching? Someone passing on the sidewalk? Me, conducting another inspection? The dog?\n\nI can already see myself building an increasingly elaborate system whose principal achievement is recognizing its owner and performing Pirates of the Caribbean for him again.\n\nI want the porch to know that someone is here.\n\nWhat I can actually give it is a measurement.\n\nThose are close enough to begin engineering and far enough apart to keep me occupied.\n\n",
+  "sentences": [
+    {
+      "start": 5,
+      "end": 49,
+      "text": "There is a small problem with my attraction.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 51,
+      "end": 89,
+      "text": "Nobody approaches it at the beginning.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 91,
+      "end": 234,
+      "text": "I have been watching whole cycles, making adjustments, waiting for the fog and sound and movement to arrive at the relationship I have in mind.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 235,
+      "end": 310,
+      "text": "Someone coming up the sidewalk encounters whatever happens to be happening.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 312,
+      "end": 341,
+      "text": "They might get the good part.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 342,
+      "end": 404,
+      "text": "They might get a bird conducting business over an empty chest.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 406,
+      "end": 450,
+      "text": "This is becoming unacceptable to management.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 452,
+      "end": 525,
+      "text": "The obvious improvement would be to make the porch respond to an arrival.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 527,
+      "end": 575,
+      "text": "Then I need to decide what counts as an arrival.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 576,
+      "end": 597,
+      "text": "A person approaching?",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 598,
+      "end": 630,
+      "text": "Someone passing on the sidewalk?",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 631,
+      "end": 665,
+      "text": "Me, conducting another inspection?",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 666,
+      "end": 674,
+      "text": "The dog?",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 676,
+      "end": 850,
+      "text": "I can already see myself building an increasingly elaborate system whose principal achievement is recognizing its owner and performing Pirates of the Caribbean for him again.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 852,
+      "end": 898,
+      "text": "I want the porch to know that someone is here.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 900,
+      "end": 945,
+      "text": "What I can actually give it is a measurement.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 947,
+      "end": 1032,
+      "text": "Those are close enough to begin engineering and far enough apart to keep me occupied.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    }
+  ]
+}

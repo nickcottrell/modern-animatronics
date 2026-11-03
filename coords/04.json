@@ -1,0 +1,211 @@
+{
+  "index": 4,
+  "doc_offset": 3744,
+  "raw": "***\n\nThe movie could also serve as a clock.\n\nEarly in the evening, everyone is arriving on the island. Outside, the lights are coming into their own, the first families are approaching, and I still have an optimistic relationship with my ice supply.\n\nLater, I come back inside and discover that the tour has encountered difficulties.\n\nOutside, a large group of teenagers has arrived. Someone wants a photograph. A younger child needs a little encouragement. We need more candy, and the fog is beginning to rise.\n\nBy the time the characters are crawling through the infrastructure, I may be doing something similar behind a plastic palm.\n\nThese are provisional timings. Halloween has not happened yet, and I cannot guarantee that our operational failures will align with the screenplay.\n\nBut I appreciate having a reference system.\n\n",
+  "sentences": [
+    {
+      "start": 5,
+      "end": 43,
+      "text": "The movie could also serve as a clock.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 45,
+      "end": 102,
+      "text": "Early in the evening, everyone is arriving on the island.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 103,
+      "end": 249,
+      "text": "Outside, the lights are coming into their own, the first families are approaching, and I still have an optimistic relationship with my ice supply.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 251,
+      "end": 333,
+      "text": "Later, I come back inside and discover that the tour has encountered difficulties.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 335,
+      "end": 383,
+      "text": "Outside, a large group of teenagers has arrived.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 384,
+      "end": 411,
+      "text": "Someone wants a photograph.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 412,
+      "end": 457,
+      "text": "A younger child needs a little encouragement.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 458,
+      "end": 511,
+      "text": "We need more candy, and the fog is beginning to rise.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 513,
+      "end": 636,
+      "text": "By the time the characters are crawling through the infrastructure, I may be doing something similar behind a plastic palm.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 638,
+      "end": 668,
+      "text": "These are provisional timings.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 669,
+      "end": 785,
+      "text": "Halloween has not happened yet, and I cannot guarantee that our operational failures will align with the screenplay.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 787,
+      "end": 830,
+      "text": "But I appreciate having a reference system.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    }
+  ]
+}

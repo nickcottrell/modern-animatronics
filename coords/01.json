@@ -1,0 +1,228 @@
+{
+  "index": 1,
+  "doc_offset": 668,
+  "raw": "***\n\nEvery Halloween, I assemble a small pirate scene. There are skeletons, foliage, lighting effects, a treasure chest, and an increasingly unreasonable amount of supporting infrastructure. Usually it spreads onto the lawn. This year, rain has forced the production onto the porch.\n\nThis has required some compromises in the geographical scale of the pirate world. The captain is now operating considerably closer to the welcome mat.\n\nBut I like the compression. Everything is within reach. I can see how the pieces fit together. What was previously a yard full of equipment has become a small stage.\n\nThe weather reduced the size of the attraction and improved access to its machinery. I am treating this as a design constraint.\n\nAnd on Halloween night, I am the ride operator.\n\n",
+  "sentences": [
+    {
+      "start": 5,
+      "end": 54,
+      "text": "Every Halloween, I assemble a small pirate scene.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 55,
+      "end": 190,
+      "text": "There are skeletons, foliage, lighting effects, a treasure chest, and an increasingly unreasonable amount of supporting infrastructure.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 191,
+      "end": 224,
+      "text": "Usually it spreads onto the lawn.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 225,
+      "end": 282,
+      "text": "This year, rain has forced the production onto the porch.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 284,
+      "end": 365,
+      "text": "This has required some compromises in the geographical scale of the pirate world.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 366,
+      "end": 434,
+      "text": "The captain is now operating considerably closer to the welcome mat.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 436,
+      "end": 463,
+      "text": "But I like the compression.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 464,
+      "end": 491,
+      "text": "Everything is within reach.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 492,
+      "end": 530,
+      "text": "I can see how the pieces fit together.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 531,
+      "end": 601,
+      "text": "What was previously a yard full of equipment has become a small stage.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 603,
+      "end": 687,
+      "text": "The weather reduced the size of the attraction and improved access to its machinery.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 688,
+      "end": 730,
+      "text": "I am treating this as a design constraint.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 732,
+      "end": 779,
+      "text": "And on Halloween night, I am the ride operator.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    }
+  ]
+}

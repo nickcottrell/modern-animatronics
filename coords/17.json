@@ -1,0 +1,177 @@
+{
+  "index": 17,
+  "doc_offset": 16830,
+  "raw": "***\n\nWhat I eventually want, and have not quite achieved, is for the lights, sound, and animatronic to catch a moment together. A gesture lands with a sound. The lighting gives it a little emphasis. Briefly, the porch has production values.\n\nThen something drifts, and it still feels like a place where pirates are conducting business.\n\nThe independent loops need enough of a relationship to produce those moments, with enough room between them that a missed cue doesn't make the whole scene look broken. They can come together, wander apart, and find each other again.\n\nGraceful vibe management.\n\nThis is the standard I am pursuing. I would like the bird to participate in a coordinated theatrical event without becoming a single point of failure for maritime atmosphere.\n\n",
+  "sentences": [
+    {
+      "start": 5,
+      "end": 127,
+      "text": "What I eventually want, and have not quite achieved, is for the lights, sound, and animatronic to catch a moment together.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 128,
+      "end": 157,
+      "text": "A gesture lands with a sound.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 158,
+      "end": 198,
+      "text": "The lighting gives it a little emphasis.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 199,
+      "end": 240,
+      "text": "Briefly, the porch has production values.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 242,
+      "end": 335,
+      "text": "Then something drifts, and it still feels like a place where pirates are conducting business.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 337,
+      "end": 504,
+      "text": "The independent loops need enough of a relationship to produce those moments, with enough room between them that a missed cue doesn't make the whole scene look broken.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 505,
+      "end": 569,
+      "text": "They can come together, wander apart, and find each other again.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 571,
+      "end": 596,
+      "text": "Graceful vibe management.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 598,
+      "end": 633,
+      "text": "This is the standard I am pursuing.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 634,
+      "end": 772,
+      "text": "I would like the bird to participate in a coordinated theatrical event without becoming a single point of failure for maritime atmosphere.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    }
+  ]
+}

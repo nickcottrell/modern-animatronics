@@ -1,0 +1,211 @@
+{
+  "index": 7,
+  "doc_offset": 6618,
+  "raw": "***\n\nNow I am wondering what else that radio signal could carry.\n\nCould I put the audible soundtrack on one channel and control cues on another? Could a receiver recognize a cue and trigger a movement? Could I build short sequences, little performances of sound and motion, that get called up when someone approaches?\n\nMIDI is another possibility. Small modules, explicit cues, sections that can run independently and occasionally come together.\n\nI haven't built that part yet.\n\nAt present, a meaningful portion of the control system is a dad looking out the front door.\n\nBut moving everything onto the porch has made the experiment feel more approachable. I can reach the equipment. I can follow the wires. I can change something and see what happens without walking across the lawn.\n\n",
+  "sentences": [
+    {
+      "start": 5,
+      "end": 64,
+      "text": "Now I am wondering what else that radio signal could carry.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 66,
+      "end": 144,
+      "text": "Could I put the audible soundtrack on one channel and control cues on another?",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 145,
+      "end": 201,
+      "text": "Could a receiver recognize a cue and trigger a movement?",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 202,
+      "end": 317,
+      "text": "Could I build short sequences, little performances of sound and motion, that get called up when someone approaches?",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 319,
+      "end": 347,
+      "text": "MIDI is another possibility.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 348,
+      "end": 445,
+      "text": "Small modules, explicit cues, sections that can run independently and occasionally come together.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 447,
+      "end": 477,
+      "text": "I haven't built that part yet.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 479,
+      "end": 570,
+      "text": "At present, a meaningful portion of the control system is a dad looking out the front door.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 572,
+      "end": 656,
+      "text": "But moving everything onto the porch has made the experiment feel more approachable.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 657,
+      "end": 683,
+      "text": "I can reach the equipment.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 684,
+      "end": 707,
+      "text": "I can follow the wires.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 708,
+      "end": 784,
+      "text": "I can change something and see what happens without walking across the lawn.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    }
+  ]
+}

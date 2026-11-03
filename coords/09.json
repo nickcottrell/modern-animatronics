@@ -1,0 +1,228 @@
+{
+  "index": 9,
+  "doc_offset": 8487,
+  "raw": "***\n\nThis is also where the nostalgia turns out to contain a technical specification.\n\nDisney's Enchanted Tiki Room opened in 1963. Its Audio-Animatronics used recorded control signals on multichannel magnetic tape to coordinate movement with the soundtrack and other effects.\n\nThe \"audio\" in Audio-Animatronics matters.\n\nBehind the performance was a way to record instructions and play them back into machinery. A signal could become the opening of a mouth or the turn of a head. Walt himself talked about the machinery in the language of Space Age guidance systems.\n\nI find this considerably more interesting than is helpful to the current project.\n\nBecause behind the tropical birds is a very mid-century set of questions. How do you encode an instruction? How reliably can you get it somewhere else? How does a machine act on it? How do you find out whether the action produced the result you wanted?\n\n",
+  "sentences": [
+    {
+      "start": 5,
+      "end": 85,
+      "text": "This is also where the nostalgia turns out to contain a technical specification.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 87,
+      "end": 131,
+      "text": "Disney's Enchanted Tiki Room opened in 1963.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 132,
+      "end": 276,
+      "text": "Its Audio-Animatronics used recorded control signals on multichannel magnetic tape to coordinate movement with the soundtrack and other effects.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 278,
+      "end": 320,
+      "text": "The \"audio\" in Audio-Animatronics matters.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 322,
+      "end": 412,
+      "text": "Behind the performance was a way to record instructions and play them back into machinery.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 413,
+      "end": 480,
+      "text": "A signal could become the opening of a mouth or the turn of a head.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 481,
+      "end": 567,
+      "text": "Walt himself talked about the machinery in the language of Space Age guidance systems.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 569,
+      "end": 650,
+      "text": "I find this considerably more interesting than is helpful to the current project.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 652,
+      "end": 725,
+      "text": "Because behind the tropical birds is a very mid-century set of questions.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 726,
+      "end": 759,
+      "text": "How do you encode an instruction?",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 760,
+      "end": 803,
+      "text": "How reliably can you get it somewhere else?",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 804,
+      "end": 833,
+      "text": "How does a machine act on it?",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 834,
+      "end": 904,
+      "text": "How do you find out whether the action produced the result you wanted?",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    }
+  ]
+}

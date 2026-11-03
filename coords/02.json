@@ -1,0 +1,381 @@
+{
+  "index": 2,
+  "doc_offset": 1449,
+  "raw": "***\n\nThe treasure chest is a good place to start.\n\nThere is no candy in it. The chest contains fake treasure, artifacts, and a skull, arranged and hot-glued into a composition that suggests several poor decisions were made during an expedition.\n\nA green light illuminates it from inside. Fog arrives through a pipe connected to a modified cooler. The result, in the dark, is a chest that appears to contain something you should probably leave alone.\n\nNaturally, children want to look inside.\n\nThis is one of the satisfying things about building a scene. You arrange some objects, give them light and atmosphere, and people begin supplying the story. A skull sitting on a table is a decoration. A skull half-visible inside a glowing, smoking treasure chest raises questions.\n\nI don't need to answer most of them. I need to keep the fog cold.\n\nThat turns out to be the job.\n\nThe cooler holds ice, which chills the fog before it reaches the chest. When the effect is working, the fog spills and settles in a way that feels appropriately supernatural. As the ice melts, the behavior changes. Eventually the chest is just emitting stage fog onto the porch.\n\nThe machine is still working. The scene is getting worse.\n\nThe ice is a consumable, which means the atmosphere has an operating budget and a maintenance schedule.\n\nSomewhere in the house, I am trying to watch a movie.\n\n",
+  "sentences": [
+    {
+      "start": 5,
+      "end": 49,
+      "text": "The treasure chest is a good place to start.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 51,
+      "end": 75,
+      "text": "There is no candy in it.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 76,
+      "end": 244,
+      "text": "The chest contains fake treasure, artifacts, and a skull, arranged and hot-glued into a composition that suggests several poor decisions were made during an expedition.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 246,
+      "end": 287,
+      "text": "A green light illuminates it from inside.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 288,
+      "end": 346,
+      "text": "Fog arrives through a pipe connected to a modified cooler.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 347,
+      "end": 449,
+      "text": "The result, in the dark, is a chest that appears to contain something you should probably leave alone.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 451,
+      "end": 491,
+      "text": "Naturally, children want to look inside.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 493,
+      "end": 553,
+      "text": "This is one of the satisfying things about building a scene.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 554,
+      "end": 649,
+      "text": "You arrange some objects, give them light and atmosphere, and people begin supplying the story.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 650,
+      "end": 693,
+      "text": "A skull sitting on a table is a decoration.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 694,
+      "end": 773,
+      "text": "A skull half-visible inside a glowing, smoking treasure chest raises questions.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 775,
+      "end": 811,
+      "text": "I don't need to answer most of them.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 812,
+      "end": 840,
+      "text": "I need to keep the fog cold.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 842,
+      "end": 871,
+      "text": "That turns out to be the job.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 873,
+      "end": 944,
+      "text": "The cooler holds ice, which chills the fog before it reaches the chest.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 945,
+      "end": 1047,
+      "text": "When the effect is working, the fog spills and settles in a way that feels appropriately supernatural.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1048,
+      "end": 1087,
+      "text": "As the ice melts, the behavior changes.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1088,
+      "end": 1151,
+      "text": "Eventually the chest is just emitting stage fog onto the porch.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1153,
+      "end": 1182,
+      "text": "The machine is still working.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1183,
+      "end": 1210,
+      "text": "The scene is getting worse.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1212,
+      "end": 1315,
+      "text": "The ice is a consumable, which means the atmosphere has an operating budget and a maintenance schedule.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1317,
+      "end": 1370,
+      "text": "Somewhere in the house, I am trying to watch a movie.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    }
+  ]
+}

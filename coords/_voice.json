@@ -1,0 +1,10 @@
+{
+  "name": "ladera-ranch-operator",
+  "stance": "Dry, understated, present-tense. A software person narrating a Halloween porch attraction as if filing a calm operational report. Concrete nouns over abstractions. The joke is in the deadpan, never announced. One idea per sentence. No exclamation, no hype, no summary of what was just said.",
+  "forbid": [
+    "em dash",
+    "exclamation point",
+    "rhetorical questions stacked",
+    "hype adjectives"
+  ]
+}

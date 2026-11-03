@@ -1,0 +1,19 @@
+{
+  "model_ref": "engine/qwen2.5-14b-touchstone",
+  "maestro_root": "~/maestro",
+  "decode": {
+    "temperature": 0.0,
+    "seed": 0
+  },
+  "gate": {
+    "card": "sd:touchstone",
+    "note": "Model is runnable only while this SD card is seated. Minting is physically gated."
+  },
+  "acceptance": {
+    "verified_at": "2026-11-03",
+    "prompt": "Write one wry, concrete, present-tense sentence carrying this fact: ice in a cooler chills the fog before it reaches the treasure chest. Output only the sentence.",
+    "output": "Ice in the cooler absorbs the chill from the fog, safeguarding the treasure chest below.",
+    "note": "Two identical engine_run calls returned byte-identical text. Determinism is live."
+  },
+  "baseline_anchor": null
+}

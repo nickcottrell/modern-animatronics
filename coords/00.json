@@ -1,0 +1,143 @@
+{
+  "index": 0,
+  "doc_offset": 0,
+  "raw": "# Modern Animatronics\n\n*Notes from a small, questionably managed attraction in Ladera Ranch.*\n\nSome of my family still think we moved to Los Angeles.\n\nWe live in Ladera Ranch, which is far enough away for that to be geographically misleading, but I understand how the confusion persists. Every so often I send them photographs of an elaborate pirate attraction outside our house. This does very little to establish that we lead a normal life.\n\nInside, we have children, laundry, and the usual administrative problems of being a family. Outside, a dead captain guards a glowing chest of cursed treasure.\n\nThe bird has its own sound system.\n\nI should probably explain.\n\n",
+  "sentences": [
+    {
+      "start": 95,
+      "end": 149,
+      "text": "Some of my family still think we moved to Los Angeles.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 151,
+      "end": 287,
+      "text": "We live in Ladera Ranch, which is far enough away for that to be geographically misleading, but I understand how the confusion persists.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 288,
+      "end": 379,
+      "text": "Every so often I send them photographs of an elaborate pirate attraction outside our house.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 380,
+      "end": 442,
+      "text": "This does very little to establish that we lead a normal life.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 444,
+      "end": 535,
+      "text": "Inside, we have children, laundry, and the usual administrative problems of being a family.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 536,
+      "end": 602,
+      "text": "Outside, a dead captain guards a glowing chest of cursed treasure.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 604,
+      "end": 638,
+      "text": "The bird has its own sound system.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 640,
+      "end": 666,
+      "text": "I should probably explain.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    }
+  ]
+}

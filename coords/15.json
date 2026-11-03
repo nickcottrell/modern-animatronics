@@ -1,0 +1,211 @@
+{
+  "index": 15,
+  "doc_offset": 14472,
+  "raw": "***\n\nFrom the sidewalk, the porch is one thing.\n\nWalk closer and it becomes several things: a bird, a soundtrack, a chest, a supply of fog. Follow any one of those far enough and you discover another collection of parts and dependencies.\n\nBenoit Mandelbrot, a mathematician who spent much of his career at IBM, developed fractal geometry to describe irregular forms that conventional geometry handled poorly. Coastlines, clouds, branching structures: things whose apparent disorder contains patterns, sometimes recurring across scales.\n\nMy porch has not been certified as a fractal. But I keep encountering a familiar design question at different levels. A movement needs timing within a gesture. A gesture needs timing within a scene. The scene needs to hold together long enough for someone walking past to enter it.\n\nI am interested in whether a small vocabulary of relationships can remain useful as the composition grows.\n\nThis is a substantial ambition for a porch whose atmosphere still depends on a cooler.\n\n",
+  "sentences": [
+    {
+      "start": 5,
+      "end": 47,
+      "text": "From the sidewalk, the porch is one thing.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 49,
+      "end": 139,
+      "text": "Walk closer and it becomes several things: a bird, a soundtrack, a chest, a supply of fog.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 140,
+      "end": 237,
+      "text": "Follow any one of those far enough and you discover another collection of parts and dependencies.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 239,
+      "end": 408,
+      "text": "Benoit Mandelbrot, a mathematician who spent much of his career at IBM, developed fractal geometry to describe irregular forms that conventional geometry handled poorly.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 409,
+      "end": 535,
+      "text": "Coastlines, clouds, branching structures: things whose apparent disorder contains patterns, sometimes recurring across scales.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 537,
+      "end": 582,
+      "text": "My porch has not been certified as a fractal.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 583,
+      "end": 654,
+      "text": "But I keep encountering a familiar design question at different levels.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 655,
+      "end": 696,
+      "text": "A movement needs timing within a gesture.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 697,
+      "end": 735,
+      "text": "A gesture needs timing within a scene.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 736,
+      "end": 818,
+      "text": "The scene needs to hold together long enough for someone walking past to enter it.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 820,
+      "end": 926,
+      "text": "I am interested in whether a small vocabulary of relationships can remain useful as the composition grows.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 928,
+      "end": 1014,
+      "text": "This is a substantial ambition for a porch whose atmosphere still depends on a cooler.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    }
+  ]
+}

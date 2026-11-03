@@ -1,0 +1,177 @@
+{
+  "index": 3,
+  "doc_offset": 2821,
+  "raw": "***\n\nThis year, my wife and I are dressing for *Jurassic Park*.\n\nPeople might reasonably ask why I don't dress as a pirate, given the substantial investment in pirate infrastructure.\n\nI have dressed as a pirate. A wig and captain's hat become less charming when you are carrying buckets of ice, bending over extension cords, and trying to find where you put the candy.\n\nAlan Grant has practical clothes. He looks like someone who could address an equipment problem.\n\nThe plan is to have *Jurassic Park* playing inside while the pirate attraction operates outside. I will periodically emerge to distribute candy, help small children negotiate the situation, and inspect the atmospheric conditions around the cursed treasure.\n\nThere is something reassuring about watching a film in which the people responsible for an attraction have made significantly worse operational decisions than I have.\n\nAt least mine doesn't breed.\n\n",
+  "sentences": [
+    {
+      "start": 5,
+      "end": 63,
+      "text": "This year, my wife and I are dressing for *Jurassic Park*.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 65,
+      "end": 182,
+      "text": "People might reasonably ask why I don't dress as a pirate, given the substantial investment in pirate infrastructure.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 184,
+      "end": 211,
+      "text": "I have dressed as a pirate.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 212,
+      "end": 368,
+      "text": "A wig and captain's hat become less charming when you are carrying buckets of ice, bending over extension cords, and trying to find where you put the candy.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 370,
+      "end": 403,
+      "text": "Alan Grant has practical clothes.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 404,
+      "end": 465,
+      "text": "He looks like someone who could address an equipment problem.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 467,
+      "end": 563,
+      "text": "The plan is to have *Jurassic Park* playing inside while the pirate attraction operates outside.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 564,
+      "end": 723,
+      "text": "I will periodically emerge to distribute candy, help small children negotiate the situation, and inspect the atmospheric conditions around the cursed treasure.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 725,
+      "end": 891,
+      "text": "There is something reassuring about watching a film in which the people responsible for an attraction have made significantly worse operational decisions than I have.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 893,
+      "end": 921,
+      "text": "At least mine doesn't breed.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    }
+  ]
+}

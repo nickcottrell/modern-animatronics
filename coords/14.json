@@ -1,0 +1,245 @@
+{
+  "index": 14,
+  "doc_offset": 13306,
+  "raw": "***\n\nMy experiment for that agreement is called VRGB. It uses explicit semantic coordinates to describe selected dimensions of meaning. In writing, those dimensions might include concrete versus abstract, past versus future, or individual versus collective. The coordinates give me something I can inspect, adjust, and pass into a generation process.\n\nA motor controller and a language model interpret instructions very differently. The design question connecting them is what we can represent, transmit, and reconstruct well enough to produce an intended behavior.\n\nI have used this approach to reconstruct drafts, including the work behind *Walking in Color*. The next step is to publish the essay alongside the harness and the encoded material used to produce it. Someone else can take those materials to their own model, examine the decisions, and test what carries across.\n\nThat is the larger possibility I am exploring: a common way to express aspects of context across different tasks and systems. Writing is one place to test it. Coordination is another.\n\nOn the porch, I am still carrying most of that context around in my head.\n\nAlso, the ice is melting.\n\n",
+  "sentences": [
+    {
+      "start": 5,
+      "end": 53,
+      "text": "My experiment for that agreement is called VRGB.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 54,
+      "end": 135,
+      "text": "It uses explicit semantic coordinates to describe selected dimensions of meaning.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 136,
+      "end": 257,
+      "text": "In writing, those dimensions might include concrete versus abstract, past versus future, or individual versus collective.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 258,
+      "end": 350,
+      "text": "The coordinates give me something I can inspect, adjust, and pass into a generation process.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 352,
+      "end": 432,
+      "text": "A motor controller and a language model interpret instructions very differently.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 433,
+      "end": 565,
+      "text": "The design question connecting them is what we can represent, transmit, and reconstruct well enough to produce an intended behavior.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 567,
+      "end": 661,
+      "text": "I have used this approach to reconstruct drafts, including the work behind *Walking in Color*.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 662,
+      "end": 766,
+      "text": "The next step is to publish the essay alongside the harness and the encoded material used to produce it.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 767,
+      "end": 877,
+      "text": "Someone else can take those materials to their own model, examine the decisions, and test what carries across.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 879,
+      "end": 1004,
+      "text": "That is the larger possibility I am exploring: a common way to express aspects of context across different tasks and systems.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1005,
+      "end": 1037,
+      "text": "Writing is one place to test it.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1038,
+      "end": 1062,
+      "text": "Coordination is another.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1064,
+      "end": 1137,
+      "text": "On the porch, I am still carrying most of that context around in my head.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1139,
+      "end": 1164,
+      "text": "Also, the ice is melting.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    }
+  ]
+}
