@@ -1,6 +1,6 @@
 {
   "index": 10,
-  "doc_offset": 9393,
+  "doc_offset": 9399,
   "raw": "***\n\nThose questions take you to Claude Shannon and Norbert Wiener.\n\nShannon was a mathematician at Bell Labs who helped establish the foundations of digital communication. In 1948, he published a mathematical theory of how information could be measured, encoded, and transmitted reliably through imperfect channels. If I am sending instructions through sound, or flashing pieces of a message across a screen, I am working in territory he helped map.\n\nThat same year, the MIT mathematician Norbert Wiener published *Cybernetics*, bringing communication and control into a common framework. A machine acting on instructions was part of the picture. A machine receiving information about the consequences of its actions, and adjusting, was where things became especially interesting.\n\nThe distinction becomes quite practical on the porch.\n\nI could send a perfectly good command to the fog machine and still get disappointing fog. The message arrived. The ice melted. Those are different problems.\n\nA recorded show can run through its instructions. A responsive show needs some way to discover what is happening around it.\n\nAt present, mine discovers this when I come outside.\n\nWhich I do frequently enough that the neighbors could reasonably assume I am expecting a boat.\n\n",
   "sentences": [
     {

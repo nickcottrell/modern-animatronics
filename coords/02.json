@@ -1,7 +1,7 @@
 {
   "index": 2,
   "doc_offset": 1449,
-  "raw": "***\n\nThe treasure chest is a good place to start.\n\nThere is no candy in it. The chest contains fake treasure, artifacts, and a skull, arranged and hot-glued into a composition that suggests several poor decisions were made during an expedition.\n\nA green light illuminates it from inside. Fog arrives through a pipe connected to a modified cooler. The result, in the dark, is a chest that appears to contain something you should probably leave alone.\n\nNaturally, children want to look inside.\n\nThis is one of the satisfying things about building a scene. You arrange some objects, give them light and atmosphere, and people begin supplying the story. A skull sitting on a table is a decoration. A skull half-visible inside a glowing, smoking treasure chest raises questions.\n\nI don't need to answer most of them. I need to keep the fog cold.\n\nThat turns out to be the job.\n\nThe cooler holds ice, which chills the fog before it reaches the chest. When the effect is working, the fog spills and settles in a way that feels appropriately supernatural. As the ice melts, the behavior changes. Eventually the chest is just emitting stage fog onto the porch.\n\nThe machine is still working. The scene is getting worse.\n\nThe ice is a consumable, which means the atmosphere has an operating budget and a maintenance schedule.\n\nSomewhere in the house, I am trying to watch a movie.\n\n",
+  "raw": "***\n\nThe treasure chest is a good place to start.\n\nThere is no candy in it. The chest contains fake treasure, artifacts, and a skull, arranged and hot-glued into a composition that suggests several poor decisions were made during an expedition.\n\nA green light illuminates it from inside. Fog arrives through a pipe connected to a modified cooler. The result, in the dark, is a chest that appears to contain something you should probably leave alone.\n\nNaturally, children want to look inside.\n\nThis is one of the satisfying things about building a scene. You arrange some objects, give them light and atmosphere, and people begin supplying the story. A skull sitting on a table is a decoration. A skull half-visible inside a glowing, smoking treasure chest raises questions.\n\nI don't need to answer most of them. I need to keep the fog cold.\n\nThat turns out to be the job.\n\nThe cooler maintains ice to chill the fog flowing towards the treasure chest. When the effect is working, the fog spills and settles in a way that feels appropriately supernatural. As the ice melts, the behavior changes. Eventually the chest is just emitting stage fog onto the porch.\n\nThe machine is still working. The scene is getting worse.\n\nThe ice is a consumable, which means the atmosphere has an operating budget and a maintenance schedule.\n\nSomewhere in the house, I am trying to watch a movie.\n\n",
   "sentences": [
     {
       "start": 5,
@@ -243,24 +243,24 @@
     },
     {
       "start": 873,
-      "end": 944,
-      "text": "The cooler holds ice, which chills the fog before it reaches the chest.",
-      "tier": "STEERED",
-      "ground": "the cooler holds ice, and the ice chills the fog before it reaches the treasure chest",
+      "end": 950,
+      "text": "The cooler maintains ice to chill the fog flowing towards the treasure chest.",
+      "tier": "KEY",
+      "ground": "",
       "vrgb": {
-        "concrete_abstract": -0.8,
+        "concrete_abstract": null,
         "individual_collective": null,
         "past_future": null
       },
       "calibration": {
         "speculation": null,
         "tone": null,
-        "density": 0.2
+        "density": null
       }
     },
     {
-      "start": 945,
-      "end": 1047,
+      "start": 951,
+      "end": 1053,
       "text": "When the effect is working, the fog spills and settles in a way that feels appropriately supernatural.",
       "tier": "KEY",
       "ground": "",
@@ -276,8 +276,8 @@
       }
     },
     {
-      "start": 1048,
-      "end": 1087,
+      "start": 1054,
+      "end": 1093,
       "text": "As the ice melts, the behavior changes.",
       "tier": "KEY",
       "ground": "",
@@ -293,8 +293,8 @@
       }
     },
     {
-      "start": 1088,
-      "end": 1151,
+      "start": 1094,
+      "end": 1157,
       "text": "Eventually the chest is just emitting stage fog onto the porch.",
       "tier": "KEY",
       "ground": "",
@@ -310,8 +310,8 @@
       }
     },
     {
-      "start": 1153,
-      "end": 1182,
+      "start": 1159,
+      "end": 1188,
       "text": "The machine is still working.",
       "tier": "KEY",
       "ground": "",
@@ -327,8 +327,8 @@
       }
     },
     {
-      "start": 1183,
-      "end": 1210,
+      "start": 1189,
+      "end": 1216,
       "text": "The scene is getting worse.",
       "tier": "KEY",
       "ground": "",
@@ -344,8 +344,8 @@
       }
     },
     {
-      "start": 1212,
-      "end": 1315,
+      "start": 1218,
+      "end": 1321,
       "text": "The ice is a consumable, which means the atmosphere has an operating budget and a maintenance schedule.",
       "tier": "KEY",
       "ground": "",
@@ -361,8 +361,8 @@
       }
     },
     {
-      "start": 1317,
-      "end": 1370,
+      "start": 1323,
+      "end": 1376,
       "text": "Somewhere in the house, I am trying to watch a movie.",
       "tier": "KEY",
       "ground": "",

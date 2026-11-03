@@ -40,7 +40,7 @@ I don't need to answer most of them. I need to keep the fog cold.
 
 That turns out to be the job.
 
-The cooler holds ice, which chills the fog before it reaches the chest. When the effect is working, the fog spills and settles in a way that feels appropriately supernatural. As the ice melts, the behavior changes. Eventually the chest is just emitting stage fog onto the porch.
+The cooler maintains ice to chill the fog flowing towards the treasure chest. When the effect is working, the fog spills and settles in a way that feels appropriately supernatural. As the ice melts, the behavior changes. Eventually the chest is just emitting stage fog onto the porch.
 
 The machine is still working. The scene is getting worse.
 
