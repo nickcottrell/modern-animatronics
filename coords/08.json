@@ -1,6 +1,6 @@
 {
   "index": 8,
-  "doc_offset": 7410,
+  "doc_offset": 7409,
   "raw": "***\n\nSound becomes interesting here because it already gives the scene a timeline. The question is what else that timeline could carry.\n\nA trigger gives you an event: move now.\n\nA control curve gives you a shape over time. Turn slowly. Pause. Return quickly. With an appropriate encoding and a controller that understands it, a stream of recorded values can become a physical gesture.\n\nThat gesture is where the personality starts to appear.\n\nA head turning at a constant speed is one thing. A head that hesitates, accelerates, and settles into position feels different. The shape of the movement matters.\n\nReading James Gleick's *Chaos* has encouraged me to think about behavior geometrically: changing states tracing trajectories through a space of possibilities. A programmed movement doesn't need to be chaotic for that way of seeing to be useful. You can begin by asking what the coordinates describe, then what path the system takes through them.\n\nOn the porch, those coordinates might describe a motor's position.\n\nAt my computer, I am working on other kinds of coordinates.\n\n",
   "sentences": [
     {
