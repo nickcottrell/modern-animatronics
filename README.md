@@ -11,7 +11,7 @@ This repository is the other half of the essay: the machine that printed it. The
 The **sentence** is the unit. Every sentence is one of two tiers:
 
 - **KEY**: locked. Used verbatim. The jokes, quotes, and thesis lines never move.
-- **STEERED**: rebuilt from coordinates alone, never from its own text, then judged against the locked line. You accept the render or promote it back to KEY.
+- **STEERED**: generated from its coordinates, never from its own text, then judged against the locked line. You accept the render, promote it back to KEY, or keep it STEERED so the published line stays provably generated.
 
 Each STEERED sentence carries three coordinate layers:
 
@@ -20,6 +20,8 @@ Each STEERED sentence carries three coordinate layers:
 - **L2 calibration**: speculation, tone, and density knobs.
 
 A doc-level voice card supplies the stance. The compression ratio per section, prose bytes over coordinate bytes, is the readout: how much meaning lives in structure versus phrasing. That ratio is the *coherence over time* the essay describes. The instrument measures the thing it is about.
+
+A STEERED sentence is generated one of two ways. By default it is built from its coordinates in a vacuum. Opt a sentence into the **wider locked net** (`grounding: section`) and it is instead generated to fill a gap in its own locked paragraph, hearing the surrounding voice while its own words stay hidden. Which mode you pick is itself a declaration of intent; the case for that is below.
 
 ## Determinism and the moat
 
@@ -33,7 +35,7 @@ You supply the locked prose. The harness renders only what you open to it, recor
 
     python -m harness.encode
 
-**2. Tier a sentence.** In `coords/NN.json`, set a sentence `tier` to `STEERED`, give it a one-line `ground` fact, and set any `vrgb` / `calibration` values. That is the only thing the model will be told. It never sees your original words.
+**2. Tier a sentence.** In `coords/NN.json`, set a sentence `tier` to `STEERED`, give it a one-line `ground` fact, and set any `vrgb` / `calibration` values. That is the only thing the model will be told. It never sees your original words. For a line that has to match the surrounding voice, also set `grounding` to `section`: the model then fills a gap in its own locked paragraph instead of generating from the fact in a vacuum.
 
 **3. Mint candidates.** Each versioned mint produces `mints/NN/` with the draft and a signed receipt, chained to the one before it.
 
@@ -46,7 +48,7 @@ Greedy mints are deterministic, so three greedy runs are identical. To get a *po
 
 **4. Judge.** Read the candidates. Pick the winner, or keep your locked original.
 
-**5. Promote.** Write the winning render into `source/essay.locked.md` and re-encode. The sentence is KEY again, locked to the words you chose.
+**5. Promote, or keep it generated.** Write the winning render into `source/essay.locked.md` and re-encode, and the sentence is KEY again, locked to the words you chose. Or leave it STEERED and grounded: the mint renders it every time, so the published line stays provably generated rather than typed.
 
     python -m harness.encode && python -m harness.verify
 
@@ -62,14 +64,33 @@ Greedy mints are deterministic, so three greedy runs are identical. To get a *po
     python -m harness.anchor --verify     # both signed endpoints still hold
     python -m harness.bundle --verify FILE # a sealed single-file draft is not forged
 
-## What the two models showed
+## Steering to the capability envelope
 
-The same locked fact, *the cooler holds ice, and the ice chills the fog before it reaches the treasure chest*, was minted three times each through a smart model (`qwen2.5-14b`) and a dumb one (`llama3.2-3b`), at temperature 0.7 with seeds 1, 2, 3. Full reviews are in `notes/candidate-reviews.md`. The short version:
+A model is not a writer you correct line by line. It is an instrument with a capability envelope, and the work is declaring intent precisely enough that the instrument lands the effect you want. Different models have different envelopes, so you steer each one differently. There is room for every idea in the pool; the skill is matching the idea to the instrument that can carry it.
 
-- The **smart** model varied the *wording* and held the *fact*. Every take kept cooler, ice, fog, and chest in the right causal order. Its worst failure was subtle: one fluent sentence that cooled the fog *generator* instead of the fog, a false claim wearing good prose.
-- The **dumb** model varied the *subject* and held the *register*. Two of three takes abandoned the fact entirely and confabulated a different prop (an LED array, a skeleton), and every take fabricated a measured specific (`2.5 liters per minute`, `3.75 psi`, `80% brightness`) that nothing supplied. The dry, operational voice stayed intact the whole time.
+The same locked fact, *the cooler holds ice, and the ice chills the fog before it reaches the chest*, was minted three times each through a smart model (`qwen2.5-14b`) and a dumb one (`llama3.2-3b`). Full reviews are in `notes/candidate-reviews.md`. The short version:
 
-That is the finding, and it is the essay's thesis in miniature. For the capable part, **meaning is stable while the surface moves**. For the weak part, **the surface is stable while the meaning drifts off**. Style alone would wave the dumb drafts through; grounding has to be checked separately from voice, which is exactly the job of the human in the loop.
+- The **smart** model varied the *wording* and held the *fact*. Its worst miss was subtle: one fluent sentence that cooled the fog *generator* instead of the fog, a false claim wearing good prose.
+- The **dumb** model varied the *subject* and held the *register*. Two of three takes abandoned the fact and confabulated a different prop, and every take invented a measured specific (`3.75 psi`, `80% brightness`) that nothing supplied. The dry voice never broke.
+
+For the capable part, meaning is stable while the surface moves. For the weak part, the surface is stable while the meaning drifts off. So you steer to the envelope: the weak model is useful where register is the whole job and the fact is trivial; the capable model is where meaning has to survive rephrasing. And because voice alone would wave the dumb drafts through, grounding is checked separately from voice. That separation is the job of the human in the loop.
+
+### The wider locked net
+
+The effect you want is not always reachable by turning up the obvious dials. The first attempt to tighten a line tuned its *meaning* coordinates: rephrasing the ground fact, dropping the temperature, forbidding the words the model kept reaching for. It got worse. The model technicalized every time ("fog machine reservoir", "pump chamber") because it was generating in a vacuum, with no sense of the voice the sentence had to live in.
+
+The fix was to widen the net: hand the model the sentence's own locked paragraph with the target gapped, and let it fill the hole in the surrounding voice. The target's own words are never shown, so the measurement still holds, but now the model can hear the room. The drift collapsed in one step:
+
+    coordinates only:   The cooler maintains a steady temperature for the ice, which cools the fog fluid before it enters the fog machine reservoir.
+    wider locked net:   The cooler contains ice that chills the fog before it enters the chest.
+
+Same fact, same model, same decode. The only thing that changed was how much intent was declared. Intent is not just the fact a sentence must carry. It is the fact, plus the voice it sits inside, plus what it must not reach for, plus which instrument renders it and how far you let it breathe. Declare all of it and a capable model lands the line. The words are the model's; the intent is yours.
+
+The net is a per-sentence choice (`"grounding": "section"`), not a global one, so the vacuum and the wider net both stay on the table: a line you want invented from nothing uses the bare coordinates, a line that has to belong uses the net.
+
+## Writing is declaring intent
+
+That is the whole claim behind this repository. Writing is not typing words. It is declaring intent, and that is all it is. Typing is just the lowest-bandwidth way to declare it, one word at a time, with the intent left implicit inside the choices. This harness makes the intent explicit and hands the typing to an instrument you have scoped to the effect. You do not write the sentence. You declare it precisely enough that it can come out right, pick the instrument whose envelope fits, and judge whether it did.
 
 ## Provenance: how you know a draft is real
 
@@ -84,7 +105,7 @@ Three independent layers, strongest last:
 - `source/essay.locked.md`: the locked baseline. Concatenating it is the floor.
 - `coords/`: `_doc.json` index, `_voice.json` stance card, one `NN.json` per section.
 - `harness/encode.py`: split the locked essay into the coords skeleton (all KEY).
-- `harness/prompt.py`: build the deterministic prompt for one STEERED sentence.
+- `harness/prompt.py`: build the deterministic prompt for one STEERED sentence (bare coordinates, or the wider locked net).
 - `harness/jeff_bridge.py`: mint one sentence through the provenance gate.
 - `harness/mint.py`: reconstruct the essay from coords.
 - `harness/draft.py`: a versioned, signed, chained mint (with `--model` / `--temp` / `--seed`).
