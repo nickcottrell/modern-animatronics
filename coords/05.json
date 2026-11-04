@@ -1,7 +1,7 @@
 {
   "index": 5,
-  "doc_offset": 4583,
-  "raw": "***\n\nThe bird, meanwhile, has no responsibilities.\n\nIt sits beside its own speaker, delivering prerecorded remarks on an independent loop. The main soundtrack plays separately: an edited sequence of ride audio that gives the scene a longer musical rhythm. It reaches an ordinary boombox over radio. I like using equipment I am willing to leave outside, and there is something pleasing about tuning a radio to receive your own little pirate world.\n\nThe two don't need to agree about exactly where they are.\n\nThe bird can say its thing while the music moves through another section. The lights continue. The fog drifts. Someone leans toward the chest.\n\nTogether, these separate activities make a place.\n\nThat interests me, because a lot of my software work concerns the relationships between independently operating parts. What context does each part need? What can it do by itself? When does it need a signal from somewhere else?\n\nHere, those questions have become unusually tangible.\n\nThe bird needs very little context. It can remain confidently unhelpful throughout the evening.\n\nI need considerably more.\n\n",
+  "doc_offset": 5312,
+  "raw": "***\n\nThe bird, meanwhile, has no responsibilities.\n\nIt sits beside its own speaker, delivering prerecorded remarks from a small USB stick on an independent loop. The main soundtrack plays separately: an edited sequence following the original Pirates of the Caribbean ride audio, giving the scene a longer, roughly twenty-minute cycle.\n\nThat soundtrack reaches an ordinary boombox through a short-range FM transmitter in the garage. I like using equipment I\u2019m willing to leave outside, and there is something pleasing about tuning a radio to receive your own little pirate world.\n\nThe two don\u2019t need to agree about exactly where they are.\n\nThe bird can say its thing while the music moves through another section. The lights continue. The fog drifts. Someone leans toward the chest.\n\nThe captain has a third arrangement: a motion sensor starts his own sequence of speech and movement when someone approaches.\n\nTogether, these separate activities make the whole thing feel like a place.\n\n",
   "sentences": [
     {
       "start": 5,
@@ -22,8 +22,8 @@
     },
     {
       "start": 52,
-      "end": 138,
-      "text": "It sits beside its own speaker, delivering prerecorded remarks on an independent loop.",
+      "end": 161,
+      "text": "It sits beside its own speaker, delivering prerecorded remarks from a small USB stick on an independent loop.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -38,9 +38,9 @@
       }
     },
     {
-      "start": 139,
-      "end": 255,
-      "text": "The main soundtrack plays separately: an edited sequence of ride audio that gives the scene a longer musical rhythm.",
+      "start": 162,
+      "end": 334,
+      "text": "The main soundtrack plays separately: an edited sequence following the original Pirates of the Caribbean ride audio, giving the scene a longer, roughly twenty-minute cycle.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -55,9 +55,9 @@
       }
     },
     {
-      "start": 256,
-      "end": 298,
-      "text": "It reaches an ordinary boombox over radio.",
+      "start": 336,
+      "end": 431,
+      "text": "That soundtrack reaches an ordinary boombox through a short-range FM transmitter in the garage.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -72,9 +72,9 @@
       }
     },
     {
-      "start": 299,
-      "end": 446,
-      "text": "I like using equipment I am willing to leave outside, and there is something pleasing about tuning a radio to receive your own little pirate world.",
+      "start": 432,
+      "end": 578,
+      "text": "I like using equipment I\u2019m willing to leave outside, and there is something pleasing about tuning a radio to receive your own little pirate world.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -89,9 +89,9 @@
       }
     },
     {
-      "start": 448,
-      "end": 505,
-      "text": "The two don't need to agree about exactly where they are.",
+      "start": 580,
+      "end": 637,
+      "text": "The two don\u2019t need to agree about exactly where they are.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -106,8 +106,8 @@
       }
     },
     {
-      "start": 507,
-      "end": 580,
+      "start": 639,
+      "end": 712,
       "text": "The bird can say its thing while the music moves through another section.",
       "tier": "KEY",
       "ground": "",
@@ -123,8 +123,8 @@
       }
     },
     {
-      "start": 581,
-      "end": 601,
+      "start": 713,
+      "end": 733,
       "text": "The lights continue.",
       "tier": "KEY",
       "ground": "",
@@ -140,8 +140,8 @@
       }
     },
     {
-      "start": 602,
-      "end": 617,
+      "start": 734,
+      "end": 749,
       "text": "The fog drifts.",
       "tier": "KEY",
       "ground": "",
@@ -157,8 +157,8 @@
       }
     },
     {
-      "start": 618,
-      "end": 649,
+      "start": 750,
+      "end": 781,
       "text": "Someone leans toward the chest.",
       "tier": "KEY",
       "ground": "",
@@ -174,9 +174,9 @@
       }
     },
     {
-      "start": 651,
-      "end": 700,
-      "text": "Together, these separate activities make a place.",
+      "start": 783,
+      "end": 907,
+      "text": "The captain has a third arrangement: a motion sensor starts his own sequence of speech and movement when someone approaches.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -191,128 +191,9 @@
       }
     },
     {
-      "start": 702,
-      "end": 820,
-      "text": "That interests me, because a lot of my software work concerns the relationships between independently operating parts.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 821,
-      "end": 854,
-      "text": "What context does each part need?",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 855,
-      "end": 880,
-      "text": "What can it do by itself?",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 881,
-      "end": 928,
-      "text": "When does it need a signal from somewhere else?",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 930,
-      "end": 983,
-      "text": "Here, those questions have become unusually tangible.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 985,
-      "end": 1020,
-      "text": "The bird needs very little context.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 1021,
-      "end": 1080,
-      "text": "It can remain confidently unhelpful throughout the evening.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 1082,
-      "end": 1107,
-      "text": "I need considerably more.",
+      "start": 909,
+      "end": 984,
+      "text": "Together, these separate activities make the whole thing feel like a place.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {

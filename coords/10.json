@@ -1,12 +1,12 @@
 {
   "index": 10,
-  "doc_offset": 9400,
-  "raw": "***\n\nThose questions take you to Claude Shannon and Norbert Wiener.\n\nShannon was a mathematician at Bell Labs who helped establish the foundations of digital communication. In 1948, he published a mathematical theory of how information could be measured, encoded, and transmitted reliably through imperfect channels. If I am sending instructions through sound, or flashing pieces of a message across a screen, I am working in territory he helped map.\n\nThat same year, the MIT mathematician Norbert Wiener published *Cybernetics*, bringing communication and control into a common framework. A machine acting on instructions was part of the picture. A machine receiving information about the consequences of its actions, and adjusting, was where things became especially interesting.\n\nThe distinction becomes quite practical on the porch.\n\nI could send a perfectly good command to the fog machine and still get disappointing fog. The message arrived. The ice melted. Those are different problems.\n\nA recorded show can run through its instructions. A responsive show needs some way to discover what is happening around it.\n\nAt present, mine discovers this when I come outside.\n\nWhich I do frequently enough that the neighbors could reasonably assume I am expecting a boat.\n\n",
+  "doc_offset": 10520,
+  "raw": "***\n\nThis is also where the nostalgia turns out to contain a technical specification.\n\nDisney\u2019s Enchanted Tiki Room opened in 1963. Its birds, flowers, and other inhabitants performed with the help of multichannel magnetic tape. Recorded control signals coordinated their movements alongside the music, dialogue, and effects.\n\nAudio-Animatronics.\n\nThe \u201caudio\u201d was doing more than providing something to sing along to. The recording carried signals that machinery could interpret as actions. A mouth opened. A head turned. Several figures participated in the same musical incident.\n\nThe performance had a control system running through it.\n\nWalt himself described the equipment in the language of Space Age guidance systems. I like that the machinery of the future was being recruited to operate a room full of singing birds.\n\nI would like to recruit some of it for the porch.\n\nBut following that thought means going a little further backstage. Before anyone could put a convincing performance on tape, there were questions about what a signal could carry, how reliably it could arrive, and what the receiving mechanism would do with it.\n\nThen there was the question I kept encountering at the cooler.\n\nHow do you know whether the thing you told the machine to do actually worked?\n\n",
   "sentences": [
     {
       "start": 5,
-      "end": 67,
-      "text": "Those questions take you to Claude Shannon and Norbert Wiener.",
+      "end": 85,
+      "text": "This is also where the nostalgia turns out to contain a technical specification.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -21,9 +21,9 @@
       }
     },
     {
-      "start": 69,
-      "end": 172,
-      "text": "Shannon was a mathematician at Bell Labs who helped establish the foundations of digital communication.",
+      "start": 87,
+      "end": 131,
+      "text": "Disney\u2019s Enchanted Tiki Room opened in 1963.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -38,9 +38,9 @@
       }
     },
     {
-      "start": 173,
-      "end": 316,
-      "text": "In 1948, he published a mathematical theory of how information could be measured, encoded, and transmitted reliably through imperfect channels.",
+      "start": 132,
+      "end": 228,
+      "text": "Its birds, flowers, and other inhabitants performed with the help of multichannel magnetic tape.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -55,9 +55,9 @@
       }
     },
     {
-      "start": 317,
-      "end": 450,
-      "text": "If I am sending instructions through sound, or flashing pieces of a message across a screen, I am working in territory he helped map.",
+      "start": 229,
+      "end": 325,
+      "text": "Recorded control signals coordinated their movements alongside the music, dialogue, and effects.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -72,9 +72,9 @@
       }
     },
     {
-      "start": 452,
-      "end": 589,
-      "text": "That same year, the MIT mathematician Norbert Wiener published *Cybernetics*, bringing communication and control into a common framework.",
+      "start": 327,
+      "end": 346,
+      "text": "Audio-Animatronics.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -89,9 +89,9 @@
       }
     },
     {
-      "start": 590,
-      "end": 647,
-      "text": "A machine acting on instructions was part of the picture.",
+      "start": 348,
+      "end": 417,
+      "text": "The \u201caudio\u201d was doing more than providing something to sing along to.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -106,9 +106,9 @@
       }
     },
     {
-      "start": 648,
-      "end": 781,
-      "text": "A machine receiving information about the consequences of its actions, and adjusting, was where things became especially interesting.",
+      "start": 418,
+      "end": 490,
+      "text": "The recording carried signals that machinery could interpret as actions.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -123,9 +123,9 @@
       }
     },
     {
-      "start": 783,
-      "end": 836,
-      "text": "The distinction becomes quite practical on the porch.",
+      "start": 491,
+      "end": 506,
+      "text": "A mouth opened.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -140,9 +140,9 @@
       }
     },
     {
-      "start": 838,
-      "end": 927,
-      "text": "I could send a perfectly good command to the fog machine and still get disappointing fog.",
+      "start": 507,
+      "end": 521,
+      "text": "A head turned.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -157,9 +157,9 @@
       }
     },
     {
-      "start": 928,
-      "end": 948,
-      "text": "The message arrived.",
+      "start": 522,
+      "end": 580,
+      "text": "Several figures participated in the same musical incident.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -174,9 +174,9 @@
       }
     },
     {
-      "start": 949,
-      "end": 964,
-      "text": "The ice melted.",
+      "start": 582,
+      "end": 638,
+      "text": "The performance had a control system running through it.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -191,9 +191,9 @@
       }
     },
     {
-      "start": 965,
-      "end": 994,
-      "text": "Those are different problems.",
+      "start": 640,
+      "end": 723,
+      "text": "Walt himself described the equipment in the language of Space Age guidance systems.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -208,9 +208,9 @@
       }
     },
     {
-      "start": 996,
-      "end": 1045,
-      "text": "A recorded show can run through its instructions.",
+      "start": 724,
+      "end": 824,
+      "text": "I like that the machinery of the future was being recruited to operate a room full of singing birds.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -225,9 +225,9 @@
       }
     },
     {
-      "start": 1046,
-      "end": 1119,
-      "text": "A responsive show needs some way to discover what is happening around it.",
+      "start": 826,
+      "end": 875,
+      "text": "I would like to recruit some of it for the porch.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -242,9 +242,9 @@
       }
     },
     {
-      "start": 1121,
-      "end": 1173,
-      "text": "At present, mine discovers this when I come outside.",
+      "start": 877,
+      "end": 943,
+      "text": "But following that thought means going a little further backstage.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -259,9 +259,43 @@
       }
     },
     {
-      "start": 1175,
-      "end": 1269,
-      "text": "Which I do frequently enough that the neighbors could reasonably assume I am expecting a boat.",
+      "start": 944,
+      "end": 1136,
+      "text": "Before anyone could put a convincing performance on tape, there were questions about what a signal could carry, how reliably it could arrive, and what the receiving mechanism would do with it.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1138,
+      "end": 1200,
+      "text": "Then there was the question I kept encountering at the cooler.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1202,
+      "end": 1279,
+      "text": "How do you know whether the thing you told the machine to do actually worked?",
       "tier": "KEY",
       "ground": "",
       "vrgb": {

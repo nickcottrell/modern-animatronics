@@ -1,12 +1,12 @@
 {
   "index": 8,
-  "doc_offset": 7411,
-  "raw": "***\n\nSound becomes interesting here because it already gives the scene a timeline. The question is what else that timeline could carry.\n\nA trigger gives you an event: move now.\n\nA control curve gives you a shape over time. Turn slowly. Pause. Return quickly. With an appropriate encoding and a controller that understands it, a stream of recorded values can become a physical gesture.\n\nThat gesture is where the personality starts to appear.\n\nA head turning at a constant speed is one thing. A head that hesitates, accelerates, and settles into position feels different. The shape of the movement matters.\n\nReading James Gleick's *Chaos* has encouraged me to think about behavior geometrically: changing states tracing trajectories through a space of possibilities. A programmed movement doesn't need to be chaotic for that way of seeing to be useful. You can begin by asking what the coordinates describe, then what path the system takes through them.\n\nOn the porch, those coordinates might describe a motor's position.\n\nAt my computer, I am working on other kinds of coordinates.\n\n",
+  "doc_offset": 8688,
+  "raw": "***\n\nBut I keep thinking about the difference between sending a command to start something and sending a description of how it should unfold.\n\nA trigger gives you an event: move now.\n\nA control curve gives you a shape over time. Turn slowly. Pause. Return quickly. With an appropriate encoding and a controller that understands it, those changing values can travel through an audio channel and emerge as a physical gesture.\n\nA head that turns steadily feels different from one that hesitates, accelerates, and settles into position. Somewhere in those differences, the captain acquires an attitude.\n\n",
   "sentences": [
     {
       "start": 5,
-      "end": 82,
-      "text": "Sound becomes interesting here because it already gives the scene a timeline.",
+      "end": 141,
+      "text": "But I keep thinking about the difference between sending a command to start something and sending a description of how it should unfold.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -21,25 +21,8 @@
       }
     },
     {
-      "start": 83,
-      "end": 135,
-      "text": "The question is what else that timeline could carry.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 137,
-      "end": 176,
+      "start": 143,
+      "end": 182,
       "text": "A trigger gives you an event: move now.",
       "tier": "KEY",
       "ground": "",
@@ -55,8 +38,8 @@
       }
     },
     {
-      "start": 178,
-      "end": 222,
+      "start": 184,
+      "end": 228,
       "text": "A control curve gives you a shape over time.",
       "tier": "KEY",
       "ground": "",
@@ -72,8 +55,8 @@
       }
     },
     {
-      "start": 223,
-      "end": 235,
+      "start": 229,
+      "end": 241,
       "text": "Turn slowly.",
       "tier": "KEY",
       "ground": "",
@@ -89,8 +72,8 @@
       }
     },
     {
-      "start": 236,
-      "end": 242,
+      "start": 242,
+      "end": 248,
       "text": "Pause.",
       "tier": "KEY",
       "ground": "",
@@ -106,8 +89,8 @@
       }
     },
     {
-      "start": 243,
-      "end": 258,
+      "start": 249,
+      "end": 264,
       "text": "Return quickly.",
       "tier": "KEY",
       "ground": "",
@@ -123,9 +106,9 @@
       }
     },
     {
-      "start": 259,
-      "end": 384,
-      "text": "With an appropriate encoding and a controller that understands it, a stream of recorded values can become a physical gesture.",
+      "start": 265,
+      "end": 423,
+      "text": "With an appropriate encoding and a controller that understands it, those changing values can travel through an audio channel and emerge as a physical gesture.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -140,9 +123,9 @@
       }
     },
     {
-      "start": 386,
-      "end": 441,
-      "text": "That gesture is where the personality starts to appear.",
+      "start": 425,
+      "end": 532,
+      "text": "A head that turns steadily feels different from one that hesitates, accelerates, and settles into position.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -157,128 +140,9 @@
       }
     },
     {
-      "start": 443,
-      "end": 491,
-      "text": "A head turning at a constant speed is one thing.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 492,
-      "end": 570,
-      "text": "A head that hesitates, accelerates, and settles into position feels different.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 571,
-      "end": 605,
-      "text": "The shape of the movement matters.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 607,
-      "end": 765,
-      "text": "Reading James Gleick's *Chaos* has encouraged me to think about behavior geometrically: changing states tracing trajectories through a space of possibilities.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 766,
-      "end": 851,
-      "text": "A programmed movement doesn't need to be chaotic for that way of seeing to be useful.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 852,
-      "end": 952,
-      "text": "You can begin by asking what the coordinates describe, then what path the system takes through them.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 954,
-      "end": 1020,
-      "text": "On the porch, those coordinates might describe a motor's position.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 1022,
-      "end": 1081,
-      "text": "At my computer, I am working on other kinds of coordinates.",
+      "start": 533,
+      "end": 598,
+      "text": "Somewhere in those differences, the captain acquires an attitude.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {

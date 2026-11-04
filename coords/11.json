@@ -1,12 +1,12 @@
 {
   "index": 11,
-  "doc_offset": 10671,
-  "raw": "***\n\nThis is where Wiener enters the production in earnest.\n\nA recorded sequence can issue commands all evening. Feedback requires something to observe what actually happened and use that information to change what happens next.\n\nAt present, that something is me. I inspect the fog, compare it with the unreasonable picture in my head, and replace the ice.\n\nI have built a control loop with a dad in it.\n\n",
+  "doc_offset": 11801,
+  "raw": "***\n\nTwo people worth meeting here are Claude Shannon and Norbert Wiener.\n\nShannon was a mathematician at Bell Labs. In 1948, he published a theory of how information could be measured, encoded, and transmitted reliably through imperfect channels. His work helped establish the foundations of digital communication. A phone call, a text message, a picture arriving intact on another screen: these are everyday encounters with problems he helped make mathematically tractable.\n\nThat same year, Wiener, a mathematician at MIT, published *Cybernetics*, connecting communication and control through feedback in machines and living things.\n\n*Cybernetics* is an excellent word to encounter while considering modifications to a seven-foot pirate. It suggests that the next reasonable purchase might be a mechanical arm.\n\nBut you can begin with a thermostat. It measures the temperature, compares it with a setting, and uses the difference to govern the heating. What happens in the room affects what the system does next.\n\nOn the porch, I could send a perfectly good command to the fog machine and still get disappointing fog.\n\nThe message arrived. The ice melted.\n\nThose are different problems.\n\nShannon helps me think about getting an instruction through. Wiener helps me think about what happens when information about the result comes back.\n\n",
   "sentences": [
     {
       "start": 5,
-      "end": 59,
-      "text": "This is where Wiener enters the production in earnest.",
+      "end": 73,
+      "text": "Two people worth meeting here are Claude Shannon and Norbert Wiener.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -21,9 +21,9 @@
       }
     },
     {
-      "start": 61,
-      "end": 112,
-      "text": "A recorded sequence can issue commands all evening.",
+      "start": 75,
+      "end": 116,
+      "text": "Shannon was a mathematician at Bell Labs.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -38,9 +38,9 @@
       }
     },
     {
-      "start": 113,
-      "end": 228,
-      "text": "Feedback requires something to observe what actually happened and use that information to change what happens next.",
+      "start": 117,
+      "end": 247,
+      "text": "In 1948, he published a theory of how information could be measured, encoded, and transmitted reliably through imperfect channels.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -55,9 +55,9 @@
       }
     },
     {
-      "start": 230,
-      "end": 263,
-      "text": "At present, that something is me.",
+      "start": 248,
+      "end": 315,
+      "text": "His work helped establish the foundations of digital communication.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -72,9 +72,9 @@
       }
     },
     {
-      "start": 264,
-      "end": 356,
-      "text": "I inspect the fog, compare it with the unreasonable picture in my head, and replace the ice.",
+      "start": 316,
+      "end": 475,
+      "text": "A phone call, a text message, a picture arriving intact on another screen: these are everyday encounters with problems he helped make mathematically tractable.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -89,9 +89,196 @@
       }
     },
     {
-      "start": 358,
-      "end": 403,
-      "text": "I have built a control loop with a dad in it.",
+      "start": 477,
+      "end": 634,
+      "text": "That same year, Wiener, a mathematician at MIT, published *Cybernetics*, connecting communication and control through feedback in machines and living things.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 636,
+      "end": 739,
+      "text": "*Cybernetics* is an excellent word to encounter while considering modifications to a seven-foot pirate.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 740,
+      "end": 812,
+      "text": "It suggests that the next reasonable purchase might be a mechanical arm.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 814,
+      "end": 850,
+      "text": "But you can begin with a thermostat.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 851,
+      "end": 954,
+      "text": "It measures the temperature, compares it with a setting, and uses the difference to govern the heating.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 955,
+      "end": 1014,
+      "text": "What happens in the room affects what the system does next.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1016,
+      "end": 1119,
+      "text": "On the porch, I could send a perfectly good command to the fog machine and still get disappointing fog.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1121,
+      "end": 1141,
+      "text": "The message arrived.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1142,
+      "end": 1157,
+      "text": "The ice melted.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1159,
+      "end": 1188,
+      "text": "Those are different problems.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1190,
+      "end": 1250,
+      "text": "Shannon helps me think about getting an instruction through.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1251,
+      "end": 1337,
+      "text": "Wiener helps me think about what happens when information about the result comes back.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {

@@ -1,6 +1,6 @@
 {
   "source": "source/essay.locked.md",
-  "sha256": "256cc7c19a2877d844458a4edab59b631bb5aa30c30cc6c1b4ab23070f1dcb83",
+  "sha256": "05e4357aa7aa24def9f0c5b781a77010268c75859a00c8f50d442f20ae9d3f10",
   "sections": [
     "00.json",
     "01.json",
@@ -20,6 +20,9 @@
     "15.json",
     "16.json",
     "17.json",
-    "18.json"
+    "18.json",
+    "19.json",
+    "20.json",
+    "21.json"
   ]
 }

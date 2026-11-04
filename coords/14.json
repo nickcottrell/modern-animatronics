@@ -1,12 +1,12 @@
 {
   "index": 14,
-  "doc_offset": 13313,
-  "raw": "***\n\nMy experiment for that agreement is called VRGB. It uses explicit semantic coordinates to describe selected dimensions of meaning. In writing, those dimensions might include concrete versus abstract, past versus future, or individual versus collective. The coordinates give me something I can inspect, adjust, and pass into a generation process.\n\nA motor controller and a language model interpret instructions very differently. The design question connecting them is what we can represent, transmit, and reconstruct well enough to produce an intended behavior.\n\nI have used this approach to reconstruct drafts, including the work behind *Walking in Color*. The next step is to publish the essay alongside the harness and the encoded material used to produce it. Someone else can take those materials to their own model, examine the decisions, and test what carries across.\n\nThat is the larger possibility I am exploring: a common way to express aspects of context across different tasks and systems. Writing is one place to test it. Coordination is another.\n\nOn the porch, I am still carrying most of that context around in my head.\n\nAlso, the ice is melting.\n\n",
+  "doc_offset": 15725,
+  "raw": "***\n\nThis is familiar territory. I\u2019ve been working on another way for a receiver to watch a repeating sequence and gradually assemble something useful.\n\nIn my software work, I\u2019ve been building components for an optical transfer protocol. The basic idea is to let a camera collect a message from a sequence of QR codes.\n\nA single QR code gives you one frame to scan. A repeating sequence lets you divide a larger message into pieces and distribute them over time.\n\nHold up your phone. It starts collecting.\n\nYou don\u2019t have to catch the beginning. If the camera misses a piece, it gets another opportunity when that piece returns. The receiver keeps track of what it has until it has enough to reconstruct the message.\n\nThen the arrangement becomes interesting.\n\nWhich pieces should repeat most often? What belongs between them? How much can the camera reliably read before the image changes? I can interleave different parts and give some more frequent appearances, composing a sequence around what the receiver needs.\n\nEvery repetition spends a little of the available time on another opportunity to receive something.\n\nFrom the outside, a square flickers.\n\nAt the receiving end, something is assembling.\n\nThe same message can be available to several receivers, each arriving at a different moment and collecting at its own pace. That\u2019s a useful property for the kinds of independent components I keep thinking about.\n\nBut collecting the pieces only gets me so far.\n\nI can deliver a perfectly intact instruction to a pirate. We still need an agreement about what constitutes an appropriate response.\n\n",
   "sentences": [
     {
       "start": 5,
-      "end": 53,
-      "text": "My experiment for that agreement is called VRGB.",
+      "end": 32,
+      "text": "This is familiar territory.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -21,9 +21,9 @@
       }
     },
     {
-      "start": 54,
-      "end": 135,
-      "text": "It uses explicit semantic coordinates to describe selected dimensions of meaning.",
+      "start": 33,
+      "end": 151,
+      "text": "I\u2019ve been working on another way for a receiver to watch a repeating sequence and gradually assemble something useful.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -38,9 +38,9 @@
       }
     },
     {
-      "start": 136,
-      "end": 257,
-      "text": "In writing, those dimensions might include concrete versus abstract, past versus future, or individual versus collective.",
+      "start": 153,
+      "end": 237,
+      "text": "In my software work, I\u2019ve been building components for an optical transfer protocol.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -55,9 +55,9 @@
       }
     },
     {
-      "start": 258,
-      "end": 350,
-      "text": "The coordinates give me something I can inspect, adjust, and pass into a generation process.",
+      "start": 238,
+      "end": 318,
+      "text": "The basic idea is to let a camera collect a message from a sequence of QR codes.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -72,9 +72,9 @@
       }
     },
     {
-      "start": 352,
-      "end": 432,
-      "text": "A motor controller and a language model interpret instructions very differently.",
+      "start": 320,
+      "end": 365,
+      "text": "A single QR code gives you one frame to scan.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -89,9 +89,9 @@
       }
     },
     {
-      "start": 433,
-      "end": 565,
-      "text": "The design question connecting them is what we can represent, transmit, and reconstruct well enough to produce an intended behavior.",
+      "start": 366,
+      "end": 462,
+      "text": "A repeating sequence lets you divide a larger message into pieces and distribute them over time.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -106,9 +106,9 @@
       }
     },
     {
-      "start": 567,
-      "end": 661,
-      "text": "I have used this approach to reconstruct drafts, including the work behind *Walking in Color*.",
+      "start": 464,
+      "end": 483,
+      "text": "Hold up your phone.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -123,9 +123,9 @@
       }
     },
     {
-      "start": 662,
-      "end": 766,
-      "text": "The next step is to publish the essay alongside the harness and the encoded material used to produce it.",
+      "start": 484,
+      "end": 505,
+      "text": "It starts collecting.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -140,9 +140,9 @@
       }
     },
     {
-      "start": 767,
-      "end": 877,
-      "text": "Someone else can take those materials to their own model, examine the decisions, and test what carries across.",
+      "start": 507,
+      "end": 545,
+      "text": "You don\u2019t have to catch the beginning.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -157,9 +157,9 @@
       }
     },
     {
-      "start": 879,
-      "end": 1004,
-      "text": "That is the larger possibility I am exploring: a common way to express aspects of context across different tasks and systems.",
+      "start": 546,
+      "end": 628,
+      "text": "If the camera misses a piece, it gets another opportunity when that piece returns.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -174,9 +174,9 @@
       }
     },
     {
-      "start": 1005,
-      "end": 1037,
-      "text": "Writing is one place to test it.",
+      "start": 629,
+      "end": 716,
+      "text": "The receiver keeps track of what it has until it has enough to reconstruct the message.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -191,9 +191,9 @@
       }
     },
     {
-      "start": 1038,
-      "end": 1062,
-      "text": "Coordination is another.",
+      "start": 718,
+      "end": 759,
+      "text": "Then the arrangement becomes interesting.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -208,9 +208,9 @@
       }
     },
     {
-      "start": 1064,
-      "end": 1137,
-      "text": "On the porch, I am still carrying most of that context around in my head.",
+      "start": 761,
+      "end": 799,
+      "text": "Which pieces should repeat most often?",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -225,9 +225,179 @@
       }
     },
     {
-      "start": 1139,
-      "end": 1164,
-      "text": "Also, the ice is melting.",
+      "start": 800,
+      "end": 826,
+      "text": "What belongs between them?",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 827,
+      "end": 890,
+      "text": "How much can the camera reliably read before the image changes?",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 891,
+      "end": 1017,
+      "text": "I can interleave different parts and give some more frequent appearances, composing a sequence around what the receiver needs.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1019,
+      "end": 1118,
+      "text": "Every repetition spends a little of the available time on another opportunity to receive something.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1120,
+      "end": 1156,
+      "text": "From the outside, a square flickers.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1158,
+      "end": 1204,
+      "text": "At the receiving end, something is assembling.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1206,
+      "end": 1329,
+      "text": "The same message can be available to several receivers, each arriving at a different moment and collecting at its own pace.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1330,
+      "end": 1417,
+      "text": "That\u2019s a useful property for the kinds of independent components I keep thinking about.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1419,
+      "end": 1465,
+      "text": "But collecting the pieces only gets me so far.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1467,
+      "end": 1524,
+      "text": "I can deliver a perfectly intact instruction to a pirate.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1525,
+      "end": 1599,
+      "text": "We still need an agreement about what constitutes an appropriate response.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {

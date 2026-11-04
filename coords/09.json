@@ -1,12 +1,12 @@
 {
   "index": 9,
-  "doc_offset": 8494,
-  "raw": "***\n\nThis is also where the nostalgia turns out to contain a technical specification.\n\nDisney's Enchanted Tiki Room opened in 1963. Its Audio-Animatronics used recorded control signals on multichannel magnetic tape to coordinate movement with the soundtrack and other effects.\n\nThe \"audio\" in Audio-Animatronics matters.\n\nBehind the performance was a way to record instructions and play them back into machinery. A signal could become the opening of a mouth or the turn of a head. Walt himself talked about the machinery in the language of Space Age guidance systems.\n\nI find this considerably more interesting than is helpful to the current project.\n\nBecause behind the tropical birds is a very mid-century set of questions. How do you encode an instruction? How reliably can you get it somewhere else? How does a machine act on it? How do you find out whether the action produced the result you wanted?\n\n",
+  "doc_offset": 9288,
+  "raw": "***\n\nI\u2019m listening to James Gleick\u2019s *Chaos* while putting this together, which is doing very little to contain the scope of the project.\n\nGleick is a science writer tracing how researchers began to understand systems whose behavior could be intricate and difficult to predict even when the underlying rules were simple. Weather. Turbulence. Populations rising and falling. One way to study such behavior is to represent a system\u2019s changing condition as a path through a space of possible states.\n\nThat way of looking at things has lodged in my head.\n\nImagine plotting the captain\u2019s head angle against the brightness of the light inside the chest. At any instant, that pair of values gives you a point. As the head turns and the light changes, the point traces a path.\n\nThose two measurements would describe only a small part of the scene. But I could already imagine different paths producing different impressions: a slow look toward a gradually brightening chest, or a sudden turn as the light drops.\n\nThe movement doesn\u2019t have to be chaotic for the picture to be useful.\n\nI started by wondering how to make the pirate move. Now I\u2019m considering the shape of his attention.\n\nAt my computer, I work on other kinds of coordinates.\n\n",
   "sentences": [
     {
       "start": 5,
-      "end": 85,
-      "text": "This is also where the nostalgia turns out to contain a technical specification.",
+      "end": 137,
+      "text": "I\u2019m listening to James Gleick\u2019s *Chaos* while putting this together, which is doing very little to contain the scope of the project.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -21,43 +21,9 @@
       }
     },
     {
-      "start": 87,
-      "end": 131,
-      "text": "Disney's Enchanted Tiki Room opened in 1963.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 132,
-      "end": 276,
-      "text": "Its Audio-Animatronics used recorded control signals on multichannel magnetic tape to coordinate movement with the soundtrack and other effects.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 278,
+      "start": 139,
       "end": 320,
-      "text": "The \"audio\" in Audio-Animatronics matters.",
+      "text": "Gleick is a science writer tracing how researchers began to understand systems whose behavior could be intricate and difficult to predict even when the underlying rules were simple.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -72,9 +38,9 @@
       }
     },
     {
-      "start": 322,
-      "end": 412,
-      "text": "Behind the performance was a way to record instructions and play them back into machinery.",
+      "start": 321,
+      "end": 329,
+      "text": "Weather.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -89,9 +55,9 @@
       }
     },
     {
-      "start": 413,
-      "end": 480,
-      "text": "A signal could become the opening of a mouth or the turn of a head.",
+      "start": 330,
+      "end": 341,
+      "text": "Turbulence.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -106,9 +72,9 @@
       }
     },
     {
-      "start": 481,
-      "end": 567,
-      "text": "Walt himself talked about the machinery in the language of Space Age guidance systems.",
+      "start": 342,
+      "end": 373,
+      "text": "Populations rising and falling.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -123,9 +89,9 @@
       }
     },
     {
-      "start": 569,
-      "end": 650,
-      "text": "I find this considerably more interesting than is helpful to the current project.",
+      "start": 374,
+      "end": 496,
+      "text": "One way to study such behavior is to represent a system\u2019s changing condition as a path through a space of possible states.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -140,9 +106,9 @@
       }
     },
     {
-      "start": 652,
-      "end": 725,
-      "text": "Because behind the tropical birds is a very mid-century set of questions.",
+      "start": 498,
+      "end": 550,
+      "text": "That way of looking at things has lodged in my head.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -157,9 +123,9 @@
       }
     },
     {
-      "start": 726,
-      "end": 759,
-      "text": "How do you encode an instruction?",
+      "start": 552,
+      "end": 647,
+      "text": "Imagine plotting the captain\u2019s head angle against the brightness of the light inside the chest.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -174,9 +140,9 @@
       }
     },
     {
-      "start": 760,
-      "end": 803,
-      "text": "How reliably can you get it somewhere else?",
+      "start": 648,
+      "end": 702,
+      "text": "At any instant, that pair of values gives you a point.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -191,9 +157,9 @@
       }
     },
     {
-      "start": 804,
-      "end": 833,
-      "text": "How does a machine act on it?",
+      "start": 703,
+      "end": 768,
+      "text": "As the head turns and the light changes, the point traces a path.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -208,9 +174,94 @@
       }
     },
     {
-      "start": 834,
-      "end": 904,
-      "text": "How do you find out whether the action produced the result you wanted?",
+      "start": 770,
+      "end": 839,
+      "text": "Those two measurements would describe only a small part of the scene.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 840,
+      "end": 1003,
+      "text": "But I could already imagine different paths producing different impressions: a slow look toward a gradually brightening chest, or a sudden turn as the light drops.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1005,
+      "end": 1074,
+      "text": "The movement doesn\u2019t have to be chaotic for the picture to be useful.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1076,
+      "end": 1127,
+      "text": "I started by wondering how to make the pirate move.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1128,
+      "end": 1175,
+      "text": "Now I\u2019m considering the shape of his attention.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1177,
+      "end": 1230,
+      "text": "At my computer, I work on other kinds of coordinates.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {

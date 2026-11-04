@@ -1,12 +1,12 @@
 {
   "index": 3,
-  "doc_offset": 2828,
-  "raw": "***\n\nThis year, my wife and I are dressing for *Jurassic Park*.\n\nPeople might reasonably ask why I don't dress as a pirate, given the substantial investment in pirate infrastructure.\n\nI have dressed as a pirate. A wig and captain's hat become less charming when you are carrying buckets of ice, bending over extension cords, and trying to find where you put the candy.\n\nAlan Grant has practical clothes. He looks like someone who could address an equipment problem.\n\nThe plan is to have *Jurassic Park* playing inside while the pirate attraction operates outside. I will periodically emerge to distribute candy, help small children negotiate the situation, and inspect the atmospheric conditions around the cursed treasure.\n\nThere is something reassuring about watching a film in which the people responsible for an attraction have made significantly worse operational decisions than I have.\n\nAt least mine doesn't breed.\n\n",
+  "doc_offset": 2980,
+  "raw": "***\n\nInside, we are watching a movie.\n\nThis year, Kim and I dressed as Dr. Ellie Sattler and Dr. Alan Grant from *Jurassic Park*.\n\nPeople might reasonably ask why I don\u2019t dress as a pirate, given the substantial investment in pirate infrastructure.\n\nI used to. But a wig and captain\u2019s hat become less charming when you are carrying buckets of ice, bending over extension cords, and trying to find where you put the candy.\n\nAlan Grant has practical clothes. He looks like someone who could address an equipment problem.\n\nSo we put on *Jurassic Park* while the pirate attraction operated outside. I periodically emerged to distribute candy, help small children negotiate the situation, and inspect the atmospheric conditions around the cursed treasure.\n\nBeing dressed as a helpful paleontologist also made it easier to reassure anyone who wasn\u2019t quite ready to approach a seven-foot pirate.\n\nInside, John Hammond, the delighted founder of a theme park populated with living dinosaurs, was showing off his investment.\n\n\u201cSpared no expense.\u201d\n\nI understood the enthusiasm. There is something reassuring about watching a film in which the people responsible for an attraction have made significantly worse operational decisions than I have.\n\nAt least mine doesn\u2019t breed.\n\nMeanwhile, in the control room, Samuel L. Jackson, playing the park\u2019s chief engineer, starts the automated tour.\n\n\u201cHold onto your butts.\u201d\n\nI appreciate an engineer who communicates uncertainty clearly.\n\n",
   "sentences": [
     {
       "start": 5,
-      "end": 63,
-      "text": "This year, my wife and I are dressing for *Jurassic Park*.",
+      "end": 37,
+      "text": "Inside, we are watching a movie.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -21,9 +21,9 @@
       }
     },
     {
-      "start": 65,
-      "end": 182,
-      "text": "People might reasonably ask why I don't dress as a pirate, given the substantial investment in pirate infrastructure.",
+      "start": 39,
+      "end": 74,
+      "text": "This year, Kim and I dressed as Dr.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -38,9 +38,9 @@
       }
     },
     {
-      "start": 184,
-      "end": 211,
-      "text": "I have dressed as a pirate.",
+      "start": 75,
+      "end": 96,
+      "text": "Ellie Sattler and Dr.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -55,9 +55,9 @@
       }
     },
     {
-      "start": 212,
-      "end": 368,
-      "text": "A wig and captain's hat become less charming when you are carrying buckets of ice, bending over extension cords, and trying to find where you put the candy.",
+      "start": 97,
+      "end": 129,
+      "text": "Alan Grant from *Jurassic Park*.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -72,8 +72,59 @@
       }
     },
     {
-      "start": 370,
-      "end": 403,
+      "start": 131,
+      "end": 248,
+      "text": "People might reasonably ask why I don\u2019t dress as a pirate, given the substantial investment in pirate infrastructure.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 250,
+      "end": 260,
+      "text": "I used to.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 261,
+      "end": 421,
+      "text": "But a wig and captain\u2019s hat become less charming when you are carrying buckets of ice, bending over extension cords, and trying to find where you put the candy.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 423,
+      "end": 456,
       "text": "Alan Grant has practical clothes.",
       "tier": "KEY",
       "ground": "",
@@ -89,8 +140,8 @@
       }
     },
     {
-      "start": 404,
-      "end": 465,
+      "start": 457,
+      "end": 518,
       "text": "He looks like someone who could address an equipment problem.",
       "tier": "KEY",
       "ground": "",
@@ -106,9 +157,9 @@
       }
     },
     {
-      "start": 467,
-      "end": 563,
-      "text": "The plan is to have *Jurassic Park* playing inside while the pirate attraction operates outside.",
+      "start": 520,
+      "end": 594,
+      "text": "So we put on *Jurassic Park* while the pirate attraction operated outside.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -123,9 +174,9 @@
       }
     },
     {
-      "start": 564,
-      "end": 723,
-      "text": "I will periodically emerge to distribute candy, help small children negotiate the situation, and inspect the atmospheric conditions around the cursed treasure.",
+      "start": 595,
+      "end": 750,
+      "text": "I periodically emerged to distribute candy, help small children negotiate the situation, and inspect the atmospheric conditions around the cursed treasure.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -140,8 +191,59 @@
       }
     },
     {
-      "start": 725,
-      "end": 891,
+      "start": 752,
+      "end": 888,
+      "text": "Being dressed as a helpful paleontologist also made it easier to reassure anyone who wasn\u2019t quite ready to approach a seven-foot pirate.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 890,
+      "end": 1014,
+      "text": "Inside, John Hammond, the delighted founder of a theme park populated with living dinosaurs, was showing off his investment.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1038,
+      "end": 1066,
+      "text": "I understood the enthusiasm.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1067,
+      "end": 1233,
       "text": "There is something reassuring about watching a film in which the people responsible for an attraction have made significantly worse operational decisions than I have.",
       "tier": "KEY",
       "ground": "",
@@ -157,9 +259,60 @@
       }
     },
     {
-      "start": 893,
-      "end": 921,
-      "text": "At least mine doesn't breed.",
+      "start": 1235,
+      "end": 1263,
+      "text": "At least mine doesn\u2019t breed.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1265,
+      "end": 1306,
+      "text": "Meanwhile, in the control room, Samuel L.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1307,
+      "end": 1377,
+      "text": "Jackson, playing the park\u2019s chief engineer, starts the automated tour.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1404,
+      "end": 1466,
+      "text": "I appreciate an engineer who communicates uncertainty clearly.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {

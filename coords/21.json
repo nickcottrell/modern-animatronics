@@ -1,0 +1,75 @@
+{
+  "index": 21,
+  "doc_offset": 22117,
+  "raw": "***\n\nNicholas Cottrell is a designer, writer, and independent technology researcher whose work spans virtual reality, spatial computing, and enterprise software. His current research explores how people and machines share context and coordinate their actions.\n\nThe repository accompanying this essay contains the source material, steering coordinates, and generation harness used to produce the text, along with notes on the final edits.\n\nFor project inquiries, research collaborations, or a conversation about something you\u2019re building, visit Brand Magical.\n",
+  "sentences": [
+    {
+      "start": 5,
+      "end": 161,
+      "text": "Nicholas Cottrell is a designer, writer, and independent technology researcher whose work spans virtual reality, spatial computing, and enterprise software.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 162,
+      "end": 259,
+      "text": "His current research explores how people and machines share context and coordinate their actions.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 261,
+      "end": 437,
+      "text": "The repository accompanying this essay contains the source material, steering coordinates, and generation harness used to produce the text, along with notes on the final edits.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 439,
+      "end": 558,
+      "text": "For project inquiries, research collaborations, or a conversation about something you\u2019re building, visit Brand Magical.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
   "index": 12,
-  "doc_offset": 11076,
-  "raw": "***\n\nThere is a small problem with my attraction.\n\nNobody approaches it at the beginning.\n\nI have been watching whole cycles, making adjustments, waiting for the fog and sound and movement to arrive at the relationship I have in mind. Someone coming up the sidewalk encounters whatever happens to be happening.\n\nThey might get the good part. They might get a bird conducting business over an empty chest.\n\nThis is becoming unacceptable to management.\n\nThe obvious improvement would be to make the porch respond to an arrival.\n\nThen I need to decide what counts as an arrival. A person approaching? Someone passing on the sidewalk? Me, conducting another inspection? The dog?\n\nI can already see myself building an increasingly elaborate system whose principal achievement is recognizing its owner and performing Pirates of the Caribbean for him again.\n\nI want the porch to know that someone is here.\n\nWhat I can actually give it is a measurement.\n\nThose are close enough to begin engineering and far enough apart to keep me occupied.\n\n",
+  "doc_offset": 13140,
+  "raw": "***\n\nAt present, that information comes back when I open the front door.\n\nOn a rainy Halloween evening, this also gives me an opportunity to discover whether anyone has braved the weather. Anyone who has gets a handful of candy while I inspect the atmospheric conditions.\n\nThe feedback mechanism has several duties.\n\nThe thermostat has a setting. My porch has an opinion.\n\nI can tell when the fog looks right, but explaining what \u201cright\u201d means takes a little more work. It should spill from the chest and linger around the treasure. Enough to suggest something troubling happened on that expedition. The skull should remain partly visible.\n\nIf I wanted a machine to manage this, what would I ask it to measure?\n\nThe temperature inside the cooler would tell me something. So would the amount of ice remaining. Neither would tell me exactly what a child approaching from the sidewalk could see.\n\nFor now, I can walk over and look. I inspect the result, compare it with the unreasonable picture in my head, and replace the ice.\n\nI have built a control loop with a dad in it.\n\nThe arrangement works. But every proposed improvement requires me to make another piece of that picture explicit: what matters, what can vary, and what would count as a useful correction.\n\nI went outside to maintain the atmosphere.\n\nNow I\u2019m trying to specify it.\n\n",
   "sentences": [
     {
       "start": 5,
-      "end": 49,
-      "text": "There is a small problem with my attraction.",
+      "end": 72,
+      "text": "At present, that information comes back when I open the front door.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -21,9 +21,9 @@
       }
     },
     {
-      "start": 51,
-      "end": 89,
-      "text": "Nobody approaches it at the beginning.",
+      "start": 74,
+      "end": 188,
+      "text": "On a rainy Halloween evening, this also gives me an opportunity to discover whether anyone has braved the weather.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -38,9 +38,9 @@
       }
     },
     {
-      "start": 91,
-      "end": 234,
-      "text": "I have been watching whole cycles, making adjustments, waiting for the fog and sound and movement to arrive at the relationship I have in mind.",
+      "start": 189,
+      "end": 271,
+      "text": "Anyone who has gets a handful of candy while I inspect the atmospheric conditions.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -55,9 +55,9 @@
       }
     },
     {
-      "start": 235,
-      "end": 310,
-      "text": "Someone coming up the sidewalk encounters whatever happens to be happening.",
+      "start": 273,
+      "end": 315,
+      "text": "The feedback mechanism has several duties.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -72,9 +72,9 @@
       }
     },
     {
-      "start": 312,
-      "end": 341,
-      "text": "They might get the good part.",
+      "start": 317,
+      "end": 346,
+      "text": "The thermostat has a setting.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -89,9 +89,9 @@
       }
     },
     {
-      "start": 342,
-      "end": 404,
-      "text": "They might get a bird conducting business over an empty chest.",
+      "start": 347,
+      "end": 371,
+      "text": "My porch has an opinion.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -106,9 +106,9 @@
       }
     },
     {
-      "start": 406,
-      "end": 450,
-      "text": "This is becoming unacceptable to management.",
+      "start": 373,
+      "end": 469,
+      "text": "I can tell when the fog looks right, but explaining what \u201cright\u201d means takes a little more work.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -123,9 +123,9 @@
       }
     },
     {
-      "start": 452,
-      "end": 525,
-      "text": "The obvious improvement would be to make the porch respond to an arrival.",
+      "start": 470,
+      "end": 532,
+      "text": "It should spill from the chest and linger around the treasure.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -140,9 +140,9 @@
       }
     },
     {
-      "start": 527,
-      "end": 575,
-      "text": "Then I need to decide what counts as an arrival.",
+      "start": 533,
+      "end": 599,
+      "text": "Enough to suggest something troubling happened on that expedition.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -157,9 +157,9 @@
       }
     },
     {
-      "start": 576,
-      "end": 597,
-      "text": "A person approaching?",
+      "start": 600,
+      "end": 639,
+      "text": "The skull should remain partly visible.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -174,9 +174,9 @@
       }
     },
     {
-      "start": 598,
-      "end": 630,
-      "text": "Someone passing on the sidewalk?",
+      "start": 641,
+      "end": 710,
+      "text": "If I wanted a machine to manage this, what would I ask it to measure?",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -191,9 +191,9 @@
       }
     },
     {
-      "start": 631,
-      "end": 665,
-      "text": "Me, conducting another inspection?",
+      "start": 712,
+      "end": 770,
+      "text": "The temperature inside the cooler would tell me something.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -208,9 +208,9 @@
       }
     },
     {
-      "start": 666,
-      "end": 674,
-      "text": "The dog?",
+      "start": 771,
+      "end": 808,
+      "text": "So would the amount of ice remaining.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -225,9 +225,9 @@
       }
     },
     {
-      "start": 676,
-      "end": 850,
-      "text": "I can already see myself building an increasingly elaborate system whose principal achievement is recognizing its owner and performing Pirates of the Caribbean for him again.",
+      "start": 809,
+      "end": 892,
+      "text": "Neither would tell me exactly what a child approaching from the sidewalk could see.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -242,9 +242,9 @@
       }
     },
     {
-      "start": 852,
-      "end": 898,
-      "text": "I want the porch to know that someone is here.",
+      "start": 894,
+      "end": 928,
+      "text": "For now, I can walk over and look.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -259,9 +259,9 @@
       }
     },
     {
-      "start": 900,
-      "end": 945,
-      "text": "What I can actually give it is a measurement.",
+      "start": 929,
+      "end": 1024,
+      "text": "I inspect the result, compare it with the unreasonable picture in my head, and replace the ice.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -276,9 +276,77 @@
       }
     },
     {
-      "start": 947,
-      "end": 1032,
-      "text": "Those are close enough to begin engineering and far enough apart to keep me occupied.",
+      "start": 1026,
+      "end": 1071,
+      "text": "I have built a control loop with a dad in it.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1073,
+      "end": 1095,
+      "text": "The arrangement works.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1096,
+      "end": 1260,
+      "text": "But every proposed improvement requires me to make another piece of that picture explicit: what matters, what can vary, and what would count as a useful correction.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1262,
+      "end": 1304,
+      "text": "I went outside to maintain the atmosphere.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1306,
+      "end": 1335,
+      "text": "Now I\u2019m trying to specify it.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {

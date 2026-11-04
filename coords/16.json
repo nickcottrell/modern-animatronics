@@ -1,12 +1,12 @@
 {
   "index": 16,
-  "doc_offset": 15495,
-  "raw": "***\n\nWhat I want to trigger is a sequence that revs up and becomes another independent loop in the scene.\n\nThe bird keeps going. The soundtrack continues. Something else wakes up, develops its own rhythm, and joins the situation already in progress. You encounter this in games and rides: local sequences unfolding inside a world that continues around them.\n\nThat is what I mean by systems resonating. Their overlaps keep producing moments. I am arranging the conditions, then walking outside to see what turns up.\n\nThis is probably why I remember the crowd-watching passages in Bob Thomas's biography of Walt Disney so vividly. What stayed with me was Walt's fascination with the park in operation, with people moving through it in waves.\n\nThe people have rhythms too. They gather, pause, move on. An attraction releases a crowd into a place where other things are already happening. A family stops to look, and another family notices what they are looking at.\n\nThe audience becomes another moving part in the composition.\n\nI want a small amount of this on my porch. Enough activity that something can catch your attention, hold it, and give you a reason to look somewhere else.\n\nThis is how I end up standing outside watching independent loops interact, convinced that one more modest addition will establish a functioning pirate economy.\n\n",
+  "doc_offset": 18850,
+  "raw": "***\n\nThey are currently benefiting from my personal attention, which has begun to wander.\n\nWatching people encounter the scene brings me back to something I remember from Bob Thomas\u2019s biography of Walt Disney: Walt\u2019s fascination with the park in operation, with people moving through it in waves.\n\nThe people have rhythms too.\n\nThey gather, pause, move on. An attraction releases a crowd into a place where other things are already happening. A family stops to look, and another family notices what they\u2019re looking at.\n\nThe audience becomes another moving part in the composition.\n\nOn my porch, someone leaning toward the chest may activate the captain. His response draws attention. Someone looks up from the treasure. The bird says something on its own schedule and acquires, through fortunate timing, the appearance of being involved.\n\nFor a moment, the whole thing has more life than I put into any individual part.\n\nThis encourages further investment.\n\n",
   "sentences": [
     {
       "start": 5,
-      "end": 105,
-      "text": "What I want to trigger is a sequence that revs up and becomes another independent loop in the scene.",
+      "end": 89,
+      "text": "They are currently benefiting from my personal attention, which has begun to wander.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -21,9 +21,9 @@
       }
     },
     {
-      "start": 107,
-      "end": 128,
-      "text": "The bird keeps going.",
+      "start": 91,
+      "end": 296,
+      "text": "Watching people encounter the scene brings me back to something I remember from Bob Thomas\u2019s biography of Walt Disney: Walt\u2019s fascination with the park in operation, with people moving through it in waves.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -38,144 +38,8 @@
       }
     },
     {
-      "start": 129,
-      "end": 154,
-      "text": "The soundtrack continues.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 155,
-      "end": 249,
-      "text": "Something else wakes up, develops its own rhythm, and joins the situation already in progress.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 250,
-      "end": 357,
-      "text": "You encounter this in games and rides: local sequences unfolding inside a world that continues around them.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 359,
-      "end": 401,
-      "text": "That is what I mean by systems resonating.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 402,
-      "end": 440,
-      "text": "Their overlaps keep producing moments.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 441,
-      "end": 514,
-      "text": "I am arranging the conditions, then walking outside to see what turns up.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 516,
-      "end": 628,
-      "text": "This is probably why I remember the crowd-watching passages in Bob Thomas's biography of Walt Disney so vividly.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 629,
-      "end": 739,
-      "text": "What stayed with me was Walt's fascination with the park in operation, with people moving through it in waves.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 741,
-      "end": 769,
+      "start": 298,
+      "end": 326,
       "text": "The people have rhythms too.",
       "tier": "KEY",
       "ground": "",
@@ -191,8 +55,8 @@
       }
     },
     {
-      "start": 770,
-      "end": 798,
+      "start": 328,
+      "end": 356,
       "text": "They gather, pause, move on.",
       "tier": "KEY",
       "ground": "",
@@ -208,8 +72,8 @@
       }
     },
     {
-      "start": 799,
-      "end": 884,
+      "start": 357,
+      "end": 442,
       "text": "An attraction releases a crowd into a place where other things are already happening.",
       "tier": "KEY",
       "ground": "",
@@ -225,9 +89,9 @@
       }
     },
     {
-      "start": 885,
-      "end": 961,
-      "text": "A family stops to look, and another family notices what they are looking at.",
+      "start": 443,
+      "end": 518,
+      "text": "A family stops to look, and another family notices what they\u2019re looking at.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -242,8 +106,8 @@
       }
     },
     {
-      "start": 963,
-      "end": 1023,
+      "start": 520,
+      "end": 580,
       "text": "The audience becomes another moving part in the composition.",
       "tier": "KEY",
       "ground": "",
@@ -259,9 +123,9 @@
       }
     },
     {
-      "start": 1025,
-      "end": 1067,
-      "text": "I want a small amount of this on my porch.",
+      "start": 582,
+      "end": 653,
+      "text": "On my porch, someone leaning toward the chest may activate the captain.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -276,9 +140,9 @@
       }
     },
     {
-      "start": 1068,
-      "end": 1179,
-      "text": "Enough activity that something can catch your attention, hold it, and give you a reason to look somewhere else.",
+      "start": 654,
+      "end": 683,
+      "text": "His response draws attention.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -293,9 +157,60 @@
       }
     },
     {
-      "start": 1181,
-      "end": 1340,
-      "text": "This is how I end up standing outside watching independent loops interact, convinced that one more modest addition will establish a functioning pirate economy.",
+      "start": 684,
+      "end": 719,
+      "text": "Someone looks up from the treasure.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 720,
+      "end": 837,
+      "text": "The bird says something on its own schedule and acquires, through fortunate timing, the appearance of being involved.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 839,
+      "end": 919,
+      "text": "For a moment, the whole thing has more life than I put into any individual part.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 921,
+      "end": 956,
+      "text": "This encourages further investment.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {

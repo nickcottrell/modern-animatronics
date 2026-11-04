@@ -1,12 +1,12 @@
 {
   "index": 6,
-  "doc_offset": 5692,
-  "raw": "***\n\nThe bird doesn't know whether the fog is working.\n\nThe fog machine doesn't know whether anyone is there.\n\nI am watching the whole thing, maintaining a rough understanding of its current state. The ice changes. The fog changes. Something that looked right a few minutes ago needs attention.\n\nThis arrangement has some admirable properties. The bird can carry on regardless of the atmospheric situation. The main soundtrack has a separate existence. Each component contributes what it can.\n\nCoordination is largely a service I provide.\n\nI am the one who knows how the whole scene is supposed to feel. I watch it, notice what has changed, and intervene. There is no message from the cooler announcing that its contribution to the illusion has deteriorated.\n\nI have to go look.\n\nThis is an unreasonable amount of distributed-systems thinking to apply to a treasure chest. It is also what happens when you give me a treasure chest.\n\n",
+  "doc_offset": 6298,
+  "raw": "***\n\nThat interests me because much of my software work concerns relationships between independently operating parts. What context does each part need? What can it do by itself? When does it need a signal from somewhere else?\n\nHere, I can walk around those questions and follow their extension cords.\n\nThe bird doesn\u2019t know whether the fog is working.\n\nThe fog machine doesn\u2019t know whether anyone is there. The captain can detect an approaching visitor, but this gives him no particular insight into the condition of his treasure.\n\nI maintain that part of the picture.\n\nThe ice melts. The fog changes. Something that looked right a few minutes ago needs attention. Meanwhile, the bird carries on, the soundtrack continues, and the captain addresses whoever has activated him.\n\nThere is something useful about their independence. Replenishing the cooler doesn\u2019t require suspending maritime operations. Each component contributes what it can while I attend to another part of the scene.\n\nCoordination is largely a service I provide.\n\nI know how the whole thing is supposed to feel. I watch it, notice what has changed, and intervene. There is no message from the cooler announcing that its contribution to the illusion has deteriorated.\n\nI have to go look.\n\nPerhaps an unreasonable amount of distributed-systems thinking to apply to a treasure chest.\n\nIt is also what happens when you give me a treasure chest.\n\n",
   "sentences": [
     {
       "start": 5,
-      "end": 54,
-      "text": "The bird doesn't know whether the fog is working.",
+      "end": 117,
+      "text": "That interests me because much of my software work concerns relationships between independently operating parts.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -21,9 +21,9 @@
       }
     },
     {
-      "start": 56,
-      "end": 109,
-      "text": "The fog machine doesn't know whether anyone is there.",
+      "start": 118,
+      "end": 151,
+      "text": "What context does each part need?",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -38,9 +38,9 @@
       }
     },
     {
-      "start": 111,
-      "end": 197,
-      "text": "I am watching the whole thing, maintaining a rough understanding of its current state.",
+      "start": 152,
+      "end": 177,
+      "text": "What can it do by itself?",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -55,9 +55,9 @@
       }
     },
     {
-      "start": 198,
-      "end": 214,
-      "text": "The ice changes.",
+      "start": 178,
+      "end": 225,
+      "text": "When does it need a signal from somewhere else?",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -72,9 +72,9 @@
       }
     },
     {
-      "start": 215,
-      "end": 231,
-      "text": "The fog changes.",
+      "start": 227,
+      "end": 300,
+      "text": "Here, I can walk around those questions and follow their extension cords.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -89,9 +89,9 @@
       }
     },
     {
-      "start": 232,
-      "end": 294,
-      "text": "Something that looked right a few minutes ago needs attention.",
+      "start": 302,
+      "end": 351,
+      "text": "The bird doesn\u2019t know whether the fog is working.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -106,26 +106,9 @@
       }
     },
     {
-      "start": 296,
-      "end": 343,
-      "text": "This arrangement has some admirable properties.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 344,
+      "start": 353,
       "end": 406,
-      "text": "The bird can carry on regardless of the atmospheric situation.",
+      "text": "The fog machine doesn\u2019t know whether anyone is there.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -141,8 +124,8 @@
     },
     {
       "start": 407,
-      "end": 452,
-      "text": "The main soundtrack has a separate existence.",
+      "end": 530,
+      "text": "The captain can detect an approaching visitor, but this gives him no particular insight into the condition of his treasure.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -157,9 +140,9 @@
       }
     },
     {
-      "start": 453,
-      "end": 492,
-      "text": "Each component contributes what it can.",
+      "start": 532,
+      "end": 568,
+      "text": "I maintain that part of the picture.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -174,8 +157,127 @@
       }
     },
     {
-      "start": 494,
-      "end": 538,
+      "start": 570,
+      "end": 584,
+      "text": "The ice melts.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 585,
+      "end": 601,
+      "text": "The fog changes.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 602,
+      "end": 664,
+      "text": "Something that looked right a few minutes ago needs attention.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 665,
+      "end": 775,
+      "text": "Meanwhile, the bird carries on, the soundtrack continues, and the captain addresses whoever has activated him.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 777,
+      "end": 828,
+      "text": "There is something useful about their independence.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 829,
+      "end": 900,
+      "text": "Replenishing the cooler doesn\u2019t require suspending maritime operations.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 901,
+      "end": 984,
+      "text": "Each component contributes what it can while I attend to another part of the scene.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 986,
+      "end": 1030,
       "text": "Coordination is largely a service I provide.",
       "tier": "KEY",
       "ground": "",
@@ -191,9 +293,9 @@
       }
     },
     {
-      "start": 540,
-      "end": 603,
-      "text": "I am the one who knows how the whole scene is supposed to feel.",
+      "start": 1032,
+      "end": 1079,
+      "text": "I know how the whole thing is supposed to feel.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -208,8 +310,8 @@
       }
     },
     {
-      "start": 604,
-      "end": 655,
+      "start": 1080,
+      "end": 1131,
       "text": "I watch it, notice what has changed, and intervene.",
       "tier": "KEY",
       "ground": "",
@@ -225,8 +327,8 @@
       }
     },
     {
-      "start": 656,
-      "end": 758,
+      "start": 1132,
+      "end": 1234,
       "text": "There is no message from the cooler announcing that its contribution to the illusion has deteriorated.",
       "tier": "KEY",
       "ground": "",
@@ -242,8 +344,8 @@
       }
     },
     {
-      "start": 760,
-      "end": 778,
+      "start": 1236,
+      "end": 1254,
       "text": "I have to go look.",
       "tier": "KEY",
       "ground": "",
@@ -259,9 +361,9 @@
       }
     },
     {
-      "start": 780,
-      "end": 872,
-      "text": "This is an unreasonable amount of distributed-systems thinking to apply to a treasure chest.",
+      "start": 1256,
+      "end": 1348,
+      "text": "Perhaps an unreasonable amount of distributed-systems thinking to apply to a treasure chest.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -276,8 +378,8 @@
       }
     },
     {
-      "start": 873,
-      "end": 931,
+      "start": 1350,
+      "end": 1408,
       "text": "It is also what happens when you give me a treasure chest.",
       "tier": "KEY",
       "ground": "",

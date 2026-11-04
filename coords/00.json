@@ -1,11 +1,11 @@
 {
   "index": 0,
   "doc_offset": 0,
-  "raw": "# Modern Animatronics\n\n*Notes from a small, questionably managed attraction in Ladera Ranch.*\n\nSome of my family still think we moved to Los Angeles.\n\nWe live in Ladera Ranch, which is far enough away for that to be geographically misleading, but I understand how the confusion persists. Every so often I send them photographs of an elaborate pirate attraction outside our house. This does very little to establish that we lead a normal life.\n\nInside, we have children, laundry, and the usual administrative problems of being a family. Outside, a dead captain guards a glowing chest of cursed treasure.\n\nThe bird has its own sound system.\n\nI should probably explain.\n\n",
+  "raw": "# Modern Animatronics\n\n*Notes from a small, questionably managed attraction in Ladera Ranch, California.*\n\nSome of my family still think we moved to Los Angeles.\n\nWe live in Ladera Ranch, which is far enough away for that to be geographically misleading, but I understand how the confusion persists. Every so often I send them photographs of an elaborate theatrical attraction outside our house. This does very little to establish that we lead a normal life.\n\nInside, we have homework, laundry, and the usual administrative problems of being a family. Outside, a seven-foot ship captain guards a glowing chest of cursed treasure.\n\nThe bird next to him has its own sound system.\n\nI should probably explain.\n\n",
   "sentences": [
     {
-      "start": 95,
-      "end": 149,
+      "start": 107,
+      "end": 161,
       "text": "Some of my family still think we moved to Los Angeles.",
       "tier": "KEY",
       "ground": "",
@@ -21,8 +21,8 @@
       }
     },
     {
-      "start": 151,
-      "end": 287,
+      "start": 163,
+      "end": 299,
       "text": "We live in Ladera Ranch, which is far enough away for that to be geographically misleading, but I understand how the confusion persists.",
       "tier": "KEY",
       "ground": "",
@@ -38,9 +38,9 @@
       }
     },
     {
-      "start": 288,
-      "end": 379,
-      "text": "Every so often I send them photographs of an elaborate pirate attraction outside our house.",
+      "start": 300,
+      "end": 395,
+      "text": "Every so often I send them photographs of an elaborate theatrical attraction outside our house.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -55,8 +55,8 @@
       }
     },
     {
-      "start": 380,
-      "end": 442,
+      "start": 396,
+      "end": 458,
       "text": "This does very little to establish that we lead a normal life.",
       "tier": "KEY",
       "ground": "",
@@ -72,9 +72,9 @@
       }
     },
     {
-      "start": 444,
-      "end": 535,
-      "text": "Inside, we have children, laundry, and the usual administrative problems of being a family.",
+      "start": 460,
+      "end": 551,
+      "text": "Inside, we have homework, laundry, and the usual administrative problems of being a family.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -89,9 +89,9 @@
       }
     },
     {
-      "start": 536,
-      "end": 602,
-      "text": "Outside, a dead captain guards a glowing chest of cursed treasure.",
+      "start": 552,
+      "end": 629,
+      "text": "Outside, a seven-foot ship captain guards a glowing chest of cursed treasure.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -106,9 +106,9 @@
       }
     },
     {
-      "start": 604,
-      "end": 638,
-      "text": "The bird has its own sound system.",
+      "start": 631,
+      "end": 677,
+      "text": "The bird next to him has its own sound system.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -123,8 +123,8 @@
       }
     },
     {
-      "start": 640,
-      "end": 666,
+      "start": 679,
+      "end": 705,
       "text": "I should probably explain.",
       "tier": "KEY",
       "ground": "",

@@ -1,315 +1,391 @@
 # Modern Animatronics
 
-*Notes from a small, questionably managed attraction in Ladera Ranch.*
+*Notes from a small, questionably managed attraction in Ladera Ranch, California.*
 
 Some of my family still think we moved to Los Angeles.
 
-We live in Ladera Ranch, which is far enough away for that to be geographically misleading, but I understand how the confusion persists. Every so often I send them photographs of an elaborate pirate attraction outside our house. This does very little to establish that we lead a normal life.
+We live in Ladera Ranch, which is far enough away for that to be geographically misleading, but I understand how the confusion persists. Every so often I send them photographs of an elaborate theatrical attraction outside our house. This does very little to establish that we lead a normal life.
 
-Inside, we have children, laundry, and the usual administrative problems of being a family. Outside, a dead captain guards a glowing chest of cursed treasure.
+Inside, we have homework, laundry, and the usual administrative problems of being a family. Outside, a seven-foot ship captain guards a glowing chest of cursed treasure.
 
-The bird has its own sound system.
+The bird next to him has its own sound system.
 
 I should probably explain.
 
 ***
 
-Every Halloween, I assemble a small pirate scene. There are skeletons, foliage, lighting effects, a treasure chest, and an increasingly unreasonable amount of supporting infrastructure. Usually it spreads onto the lawn. This year, rain has forced the production onto the porch.
+Every Halloween, I pay homage to the original Pirates of the Caribbean ride outside our house. There are skeletons, foliage, fog machines, lighting effects, a talking pirate, a talking bird, a treasure chest, and an increasingly unreasonable amount of supporting infrastructure.
 
-This has required some compromises in the geographical scale of the pirate world. The captain is now operating considerably closer to the welcome mat.
+Usually, it spreads onto the lawn. This year, rain forced the production onto the porch.
 
-But I like the compression. Everything is within reach. I can see how the pieces fit together. What was previously a yard full of equipment has become a small stage.
+This required some compromises in the geographical scale of the pirate world. The captain was now operating considerably closer to the welcome mat.
 
-The weather reduced the size of the attraction and improved access to its machinery. I am treating this as a design constraint.
+But I liked the compression. Everything was within reach. I could see how the pieces fit together. What had previously been a yard full of equipment became a small stage.
 
-And on Halloween night, I am the ride operator.
+The weather reduced the size of the attraction and improved my access to its machinery. I counted this as a design feature. On Halloween night, I am also the attraction’s primary and only ride operator, technician, and cast member.
 
 ***
 
-The treasure chest is a good place to start.
+The treasure chest requires the most supervision.
 
-There is no candy in it. The chest contains fake treasure, artifacts, and a skull, arranged and hot-glued into a composition that suggests several poor decisions were made during an expedition.
+There is no candy in it. It contains fake treasure, artifacts, and a skull, arranged and hot-glued into a composition suggesting several poor decisions were made during an expedition.
 
-A green light illuminates it from inside. Fog arrives through a pipe connected to a modified cooler. The result, in the dark, is a chest that appears to contain something you should probably leave alone.
+A green light illuminates it from inside. Fog arrives through a pipe connected to a modified cooler. In the dark, the chest appears to contain something you should probably leave alone.
 
 Naturally, children want to look inside.
 
 This is one of the satisfying things about building a scene. You arrange some objects, give them light and atmosphere, and people begin supplying the story. A skull sitting on a table is a decoration. A skull half-visible inside a glowing, smoking treasure chest raises questions.
 
-I don't need to answer most of them. I need to keep the fog cold.
+I don’t need to answer most of them. I need to keep the fog cold.
 
-That turns out to be the job.
+That turns out to be an actual job.
 
-The cooler holds ice that chills the fog before it reaches the treasure chest. When the effect is working, the fog spills and settles in a way that feels appropriately supernatural. As the ice melts, the behavior changes. Eventually the chest is just emitting stage fog onto the porch.
+The cooler holds ice, which chills the fog before it reaches the chest. When the effect is working, the fog spills over the edges and settles in a way that feels appropriately supernatural. As the ice melts, its behavior changes. Eventually, the chest just spews stage fog onto the porch, making it look more like a heavy metal show.
 
-The machine is still working. The scene is getting worse.
+The machine works. The scene is breaking down.
 
 The ice is a consumable, which means the atmosphere has an operating budget and a maintenance schedule.
 
-Somewhere in the house, I am trying to watch a movie.
-
 ***
 
-This year, my wife and I are dressing for *Jurassic Park*.
+Inside, we are watching a movie.
 
-People might reasonably ask why I don't dress as a pirate, given the substantial investment in pirate infrastructure.
+This year, Kim and I dressed as Dr. Ellie Sattler and Dr. Alan Grant from *Jurassic Park*.
 
-I have dressed as a pirate. A wig and captain's hat become less charming when you are carrying buckets of ice, bending over extension cords, and trying to find where you put the candy.
+People might reasonably ask why I don’t dress as a pirate, given the substantial investment in pirate infrastructure.
+
+I used to. But a wig and captain’s hat become less charming when you are carrying buckets of ice, bending over extension cords, and trying to find where you put the candy.
 
 Alan Grant has practical clothes. He looks like someone who could address an equipment problem.
 
-The plan is to have *Jurassic Park* playing inside while the pirate attraction operates outside. I will periodically emerge to distribute candy, help small children negotiate the situation, and inspect the atmospheric conditions around the cursed treasure.
+So we put on *Jurassic Park* while the pirate attraction operated outside. I periodically emerged to distribute candy, help small children negotiate the situation, and inspect the atmospheric conditions around the cursed treasure.
 
-There is something reassuring about watching a film in which the people responsible for an attraction have made significantly worse operational decisions than I have.
+Being dressed as a helpful paleontologist also made it easier to reassure anyone who wasn’t quite ready to approach a seven-foot pirate.
 
-At least mine doesn't breed.
+Inside, John Hammond, the delighted founder of a theme park populated with living dinosaurs, was showing off his investment.
+
+“Spared no expense.”
+
+I understood the enthusiasm. There is something reassuring about watching a film in which the people responsible for an attraction have made significantly worse operational decisions than I have.
+
+At least mine doesn’t breed.
+
+Meanwhile, in the control room, Samuel L. Jackson, playing the park’s chief engineer, starts the automated tour.
+
+“Hold onto your butts.”
+
+I appreciate an engineer who communicates uncertainty clearly.
 
 ***
 
-The movie could also serve as a clock.
+Outside, the lights were coming into their own. Families were approaching, and I still had an optimistic relationship with my ice supply. Anyone coming through the rain deserved a substantial handful of candy.
 
-Early in the evening, everyone is arriving on the island. Outside, the lights are coming into their own, the first families are approaching, and I still have an optimistic relationship with my ice supply.
+Each trip through the front door interrupted one attraction with the demands of another.
 
-Later, I come back inside and discover that the tour has encountered difficulties.
+A photograph. More candy. A small child considering whether the captain could be trusted. A quick inspection of the chest.
 
-Outside, a large group of teenagers has arrived. Someone wants a photograph. A younger child needs a little encouragement. We need more candy, and the fog is beginning to rise.
+Back inside, the tour vehicles were stopped beside the Tyrannosaurus enclosure in a tropical storm. The electric fence had lost power. A glass of water began to tremble.
 
-By the time the characters are crawling through the infrastructure, I may be doing something similar behind a plastic palm.
+I had missed some developments.
 
-These are provisional timings. Halloween has not happened yet, and I cannot guarantee that our operational failures will align with the screenplay.
+This is one disadvantage of operating an attraction while watching *Jurassic Park*. You return to discover that several of your management assumptions are being examined at considerable volume.
 
-But I appreciate having a reference system.
+I went back out to check the fog.
 
 ***
 
 The bird, meanwhile, has no responsibilities.
 
-It sits beside its own speaker, delivering prerecorded remarks on an independent loop. The main soundtrack plays separately: an edited sequence of ride audio that gives the scene a longer musical rhythm. It reaches an ordinary boombox over radio. I like using equipment I am willing to leave outside, and there is something pleasing about tuning a radio to receive your own little pirate world.
+It sits beside its own speaker, delivering prerecorded remarks from a small USB stick on an independent loop. The main soundtrack plays separately: an edited sequence following the original Pirates of the Caribbean ride audio, giving the scene a longer, roughly twenty-minute cycle.
 
-The two don't need to agree about exactly where they are.
+That soundtrack reaches an ordinary boombox through a short-range FM transmitter in the garage. I like using equipment I’m willing to leave outside, and there is something pleasing about tuning a radio to receive your own little pirate world.
+
+The two don’t need to agree about exactly where they are.
 
 The bird can say its thing while the music moves through another section. The lights continue. The fog drifts. Someone leans toward the chest.
 
-Together, these separate activities make a place.
+The captain has a third arrangement: a motion sensor starts his own sequence of speech and movement when someone approaches.
 
-That interests me, because a lot of my software work concerns the relationships between independently operating parts. What context does each part need? What can it do by itself? When does it need a signal from somewhere else?
-
-Here, those questions have become unusually tangible.
-
-The bird needs very little context. It can remain confidently unhelpful throughout the evening.
-
-I need considerably more.
+Together, these separate activities make the whole thing feel like a place.
 
 ***
 
-The bird doesn't know whether the fog is working.
+That interests me because much of my software work concerns relationships between independently operating parts. What context does each part need? What can it do by itself? When does it need a signal from somewhere else?
 
-The fog machine doesn't know whether anyone is there.
+Here, I can walk around those questions and follow their extension cords.
 
-I am watching the whole thing, maintaining a rough understanding of its current state. The ice changes. The fog changes. Something that looked right a few minutes ago needs attention.
+The bird doesn’t know whether the fog is working.
 
-This arrangement has some admirable properties. The bird can carry on regardless of the atmospheric situation. The main soundtrack has a separate existence. Each component contributes what it can.
+The fog machine doesn’t know whether anyone is there. The captain can detect an approaching visitor, but this gives him no particular insight into the condition of his treasure.
+
+I maintain that part of the picture.
+
+The ice melts. The fog changes. Something that looked right a few minutes ago needs attention. Meanwhile, the bird carries on, the soundtrack continues, and the captain addresses whoever has activated him.
+
+There is something useful about their independence. Replenishing the cooler doesn’t require suspending maritime operations. Each component contributes what it can while I attend to another part of the scene.
 
 Coordination is largely a service I provide.
 
-I am the one who knows how the whole scene is supposed to feel. I watch it, notice what has changed, and intervene. There is no message from the cooler announcing that its contribution to the illusion has deteriorated.
+I know how the whole thing is supposed to feel. I watch it, notice what has changed, and intervene. There is no message from the cooler announcing that its contribution to the illusion has deteriorated.
 
 I have to go look.
 
-This is an unreasonable amount of distributed-systems thinking to apply to a treasure chest. It is also what happens when you give me a treasure chest.
+Perhaps an unreasonable amount of distributed-systems thinking to apply to a treasure chest.
+
+It is also what happens when you give me a treasure chest.
 
 ***
 
-Now I am wondering what else that radio signal could carry.
+Now I’m wondering what else the radio signal could carry.
 
-Could I put the audible soundtrack on one channel and control cues on another? Could a receiver recognize a cue and trigger a movement? Could I build short sequences, little performances of sound and motion, that get called up when someone approaches?
+Could I put the soundtrack on the left channel and control cues on the right? With a receiver that could separate and interpret them, could a cue start a short sequence of sound, light, and movement?
 
-MIDI is another possibility. Small modules, explicit cues, sections that can run independently and occasionally come together.
+The captain already responds to motion. What interests me is giving that response a little company. A change in the lighting. A sound from somewhere else. A brief suggestion that the inhabitants of the porch are involved in the same incident.
 
-I haven't built that part yet.
+Then the scene could settle back into its independent loops.
 
-At present, a meaningful portion of the control system is a dad looking out the front door.
+MIDI is another possibility. Small modules, recognizable cues, sequences that can run locally and occasionally come together.
 
-But moving everything onto the porch has made the experiment feel more approachable. I can reach the equipment. I can follow the wires. I can change something and see what happens without walking across the lawn.
+I haven’t built that part yet. Maybe next year.
+
+Moving everything onto the porch has made it dangerously easy to consider. I can reach the equipment. I can follow the wires. I can change something and see what happens without walking across the lawn.
+
+For now, I replace the ice.
 
 ***
 
-Sound becomes interesting here because it already gives the scene a timeline. The question is what else that timeline could carry.
+But I keep thinking about the difference between sending a command to start something and sending a description of how it should unfold.
 
 A trigger gives you an event: move now.
 
-A control curve gives you a shape over time. Turn slowly. Pause. Return quickly. With an appropriate encoding and a controller that understands it, a stream of recorded values can become a physical gesture.
+A control curve gives you a shape over time. Turn slowly. Pause. Return quickly. With an appropriate encoding and a controller that understands it, those changing values can travel through an audio channel and emerge as a physical gesture.
 
-That gesture is where the personality starts to appear.
+A head that turns steadily feels different from one that hesitates, accelerates, and settles into position. Somewhere in those differences, the captain acquires an attitude.
 
-A head turning at a constant speed is one thing. A head that hesitates, accelerates, and settles into position feels different. The shape of the movement matters.
+***
 
-Reading James Gleick's *Chaos* has encouraged me to think about behavior geometrically: changing states tracing trajectories through a space of possibilities. A programmed movement doesn't need to be chaotic for that way of seeing to be useful. You can begin by asking what the coordinates describe, then what path the system takes through them.
+I’m listening to James Gleick’s *Chaos* while putting this together, which is doing very little to contain the scope of the project.
 
-On the porch, those coordinates might describe a motor's position.
+Gleick is a science writer tracing how researchers began to understand systems whose behavior could be intricate and difficult to predict even when the underlying rules were simple. Weather. Turbulence. Populations rising and falling. One way to study such behavior is to represent a system’s changing condition as a path through a space of possible states.
 
-At my computer, I am working on other kinds of coordinates.
+That way of looking at things has lodged in my head.
+
+Imagine plotting the captain’s head angle against the brightness of the light inside the chest. At any instant, that pair of values gives you a point. As the head turns and the light changes, the point traces a path.
+
+Those two measurements would describe only a small part of the scene. But I could already imagine different paths producing different impressions: a slow look toward a gradually brightening chest, or a sudden turn as the light drops.
+
+The movement doesn’t have to be chaotic for the picture to be useful.
+
+I started by wondering how to make the pirate move. Now I’m considering the shape of his attention.
+
+At my computer, I work on other kinds of coordinates.
 
 ***
 
 This is also where the nostalgia turns out to contain a technical specification.
 
-Disney's Enchanted Tiki Room opened in 1963. Its Audio-Animatronics used recorded control signals on multichannel magnetic tape to coordinate movement with the soundtrack and other effects.
+Disney’s Enchanted Tiki Room opened in 1963. Its birds, flowers, and other inhabitants performed with the help of multichannel magnetic tape. Recorded control signals coordinated their movements alongside the music, dialogue, and effects.
 
-The "audio" in Audio-Animatronics matters.
+Audio-Animatronics.
 
-Behind the performance was a way to record instructions and play them back into machinery. A signal could become the opening of a mouth or the turn of a head. Walt himself talked about the machinery in the language of Space Age guidance systems.
+The “audio” was doing more than providing something to sing along to. The recording carried signals that machinery could interpret as actions. A mouth opened. A head turned. Several figures participated in the same musical incident.
 
-I find this considerably more interesting than is helpful to the current project.
+The performance had a control system running through it.
 
-Because behind the tropical birds is a very mid-century set of questions. How do you encode an instruction? How reliably can you get it somewhere else? How does a machine act on it? How do you find out whether the action produced the result you wanted?
+Walt himself described the equipment in the language of Space Age guidance systems. I like that the machinery of the future was being recruited to operate a room full of singing birds.
 
-***
+I would like to recruit some of it for the porch.
 
-Those questions take you to Claude Shannon and Norbert Wiener.
+But following that thought means going a little further backstage. Before anyone could put a convincing performance on tape, there were questions about what a signal could carry, how reliably it could arrive, and what the receiving mechanism would do with it.
 
-Shannon was a mathematician at Bell Labs who helped establish the foundations of digital communication. In 1948, he published a mathematical theory of how information could be measured, encoded, and transmitted reliably through imperfect channels. If I am sending instructions through sound, or flashing pieces of a message across a screen, I am working in territory he helped map.
+Then there was the question I kept encountering at the cooler.
 
-That same year, the MIT mathematician Norbert Wiener published *Cybernetics*, bringing communication and control into a common framework. A machine acting on instructions was part of the picture. A machine receiving information about the consequences of its actions, and adjusting, was where things became especially interesting.
-
-The distinction becomes quite practical on the porch.
-
-I could send a perfectly good command to the fog machine and still get disappointing fog. The message arrived. The ice melted. Those are different problems.
-
-A recorded show can run through its instructions. A responsive show needs some way to discover what is happening around it.
-
-At present, mine discovers this when I come outside.
-
-Which I do frequently enough that the neighbors could reasonably assume I am expecting a boat.
+How do you know whether the thing you told the machine to do actually worked?
 
 ***
 
-This is where Wiener enters the production in earnest.
+Two people worth meeting here are Claude Shannon and Norbert Wiener.
 
-A recorded sequence can issue commands all evening. Feedback requires something to observe what actually happened and use that information to change what happens next.
+Shannon was a mathematician at Bell Labs. In 1948, he published a theory of how information could be measured, encoded, and transmitted reliably through imperfect channels. His work helped establish the foundations of digital communication. A phone call, a text message, a picture arriving intact on another screen: these are everyday encounters with problems he helped make mathematically tractable.
 
-At present, that something is me. I inspect the fog, compare it with the unreasonable picture in my head, and replace the ice.
+That same year, Wiener, a mathematician at MIT, published *Cybernetics*, connecting communication and control through feedback in machines and living things.
+
+*Cybernetics* is an excellent word to encounter while considering modifications to a seven-foot pirate. It suggests that the next reasonable purchase might be a mechanical arm.
+
+But you can begin with a thermostat. It measures the temperature, compares it with a setting, and uses the difference to govern the heating. What happens in the room affects what the system does next.
+
+On the porch, I could send a perfectly good command to the fog machine and still get disappointing fog.
+
+The message arrived. The ice melted.
+
+Those are different problems.
+
+Shannon helps me think about getting an instruction through. Wiener helps me think about what happens when information about the result comes back.
+
+***
+
+At present, that information comes back when I open the front door.
+
+On a rainy Halloween evening, this also gives me an opportunity to discover whether anyone has braved the weather. Anyone who has gets a handful of candy while I inspect the atmospheric conditions.
+
+The feedback mechanism has several duties.
+
+The thermostat has a setting. My porch has an opinion.
+
+I can tell when the fog looks right, but explaining what “right” means takes a little more work. It should spill from the chest and linger around the treasure. Enough to suggest something troubling happened on that expedition. The skull should remain partly visible.
+
+If I wanted a machine to manage this, what would I ask it to measure?
+
+The temperature inside the cooler would tell me something. So would the amount of ice remaining. Neither would tell me exactly what a child approaching from the sidewalk could see.
+
+For now, I can walk over and look. I inspect the result, compare it with the unreasonable picture in my head, and replace the ice.
 
 I have built a control loop with a dad in it.
 
-***
+The arrangement works. But every proposed improvement requires me to make another piece of that picture explicit: what matters, what can vary, and what would count as a useful correction.
 
-There is a small problem with my attraction.
+I went outside to maintain the atmosphere.
 
-Nobody approaches it at the beginning.
-
-I have been watching whole cycles, making adjustments, waiting for the fog and sound and movement to arrive at the relationship I have in mind. Someone coming up the sidewalk encounters whatever happens to be happening.
-
-They might get the good part. They might get a bird conducting business over an empty chest.
-
-This is becoming unacceptable to management.
-
-The obvious improvement would be to make the porch respond to an arrival.
-
-Then I need to decide what counts as an arrival. A person approaching? Someone passing on the sidewalk? Me, conducting another inspection? The dog?
-
-I can already see myself building an increasingly elaborate system whose principal achievement is recognizing its owner and performing Pirates of the Caribbean for him again.
-
-I want the porch to know that someone is here.
-
-What I can actually give it is a measurement.
-
-Those are close enough to begin engineering and far enough apart to keep me occupied.
+Now I’m trying to specify it.
 
 ***
 
-Lately I have been building a way to send structured information through something people usually encounter as a picture.
+The attraction already works. People stop, look, take photographs. Occasionally, someone very small decides the captain is too much pirate, and Alan Grant assists with negotiations.
 
-A QR code can sit there waiting to be scanned. A sequence of QR codes gives you time to work with.
+My dissatisfaction is more specialized.
 
-You can divide a payload across frames and repeat the sequence, allowing a receiver to collect pieces as it encounters them. It can arrive partway through. It can miss a frame and catch it on another pass.
+I can imagine the whole scene changing character for a while. The lights shift. The soundtrack builds. A few movements land together, and suddenly there’s a pirate battle underway. Then the excitement subsides into something quieter: water, insects, a low-lit chest, the suggestion of a bayou with unresolved historical problems.
 
-Then the composition of the sequence becomes a design problem. Which pieces repeat most often? What should appear between them? How much information belongs in each frame? How long does a receiver need to watch before it has enough?
+The bird continues to offer its perspective.
 
-Every repetition spends some of the channel's available time on reliability. The changing picture carries a structure that becomes available through time.
+I want those larger changes to pass through the scene like waves. Each component could participate in a short sequence, then return to its usual activity. Another sequence could begin while the rest of the world keeps running.
 
-From the outside, you see a flickering square. At the receiving end, something is assembling.
+That leaves some decisions to make.
 
-The important distinction is that receiving the data correctly doesn't establish what it means. That depends on the receiving system and its rules.
+What does each component need to receive? A command for every movement? A cue to begin a sequence it already knows? Some description of the current mood, with rules for how it should contribute?
+
+And if it misses the message, could it catch enough of the next one to join in?
+
+I’m standing beside a treasure chest considering how a pirate might acquire context incrementally.
+
+***
+
+This is familiar territory. I’ve been working on another way for a receiver to watch a repeating sequence and gradually assemble something useful.
+
+In my software work, I’ve been building components for an optical transfer protocol. The basic idea is to let a camera collect a message from a sequence of QR codes.
+
+A single QR code gives you one frame to scan. A repeating sequence lets you divide a larger message into pieces and distribute them over time.
+
+Hold up your phone. It starts collecting.
+
+You don’t have to catch the beginning. If the camera misses a piece, it gets another opportunity when that piece returns. The receiver keeps track of what it has until it has enough to reconstruct the message.
+
+Then the arrangement becomes interesting.
+
+Which pieces should repeat most often? What belongs between them? How much can the camera reliably read before the image changes? I can interleave different parts and give some more frequent appearances, composing a sequence around what the receiver needs.
+
+Every repetition spends a little of the available time on another opportunity to receive something.
+
+From the outside, a square flickers.
+
+At the receiving end, something is assembling.
+
+The same message can be available to several receivers, each arriving at a different moment and collecting at its own pace. That’s a useful property for the kinds of independent components I keep thinking about.
+
+But collecting the pieces only gets me so far.
 
 I can deliver a perfectly intact instruction to a pirate. We still need an agreement about what constitutes an appropriate response.
 
 ***
 
-My experiment for that agreement is called VRGB. It uses explicit semantic coordinates to describe selected dimensions of meaning. In writing, those dimensions might include concrete versus abstract, past versus future, or individual versus collective. The coordinates give me something I can inspect, adjust, and pass into a generation process.
+Suppose I want to send the scene gradually from a quiet bayou into a pirate battle.
 
-A motor controller and a language model interpret instructions very differently. The design question connecting them is what we can represent, transmit, and reconstruct well enough to produce an intended behavior.
+I could describe that change along a few dimensions: dim to bright, sparse to busy, slow to energetic. At any moment, a set of values would describe where I want the scene to be. A sequence of those values would describe how I want it to develop.
 
-I have used this approach to reconstruct drafts, including the work behind *Walking in Color*. The next step is to publish the essay alongside the harness and the encoded material used to produce it. Someone else can take those materials to their own model, examine the decisions, and test what carries across.
+Each component would need rules for interpreting its part. A light could brighten. An audio player could introduce a busier passage. The captain could become more animated within the movements available to him.
 
-That is the larger possibility I am exploring: a common way to express aspects of context across different tasks and systems. Writing is one place to test it. Coordination is another.
+The coordinates would only be useful because we had defined what they referred to.
 
-On the porch, I am still carrying most of that context around in my head.
+That is close to a question I’m exploring in my software work: can I make selected aspects of context explicit enough for another system to interpret and use?
 
-Also, the ice is melting.
+I call the framework VRGB. I’ve been testing it with writing, using coordinates for dimensions such as concrete to abstract, individual to collective, past to future. Those give me a way to describe an intended emphasis and how it changes through a piece, then examine what a language model produces from that description.
 
-***
+A motor controller and a language model require very different instructions. The useful connection, for me, is the design work before either one acts: choosing what to represent, defining how it should be interpreted, and checking the result.
 
-From the sidewalk, the porch is one thing.
+On the porch, I can imagine describing the shape of a scene while letting its parts contribute in different ways.
 
-Walk closer and it becomes several things: a bird, a soundtrack, a chest, a supply of fog. Follow any one of those far enough and you discover another collection of parts and dependencies.
-
-Benoit Mandelbrot, a mathematician who spent much of his career at IBM, developed fractal geometry to describe irregular forms that conventional geometry handled poorly. Coastlines, clouds, branching structures: things whose apparent disorder contains patterns, sometimes recurring across scales.
-
-My porch has not been certified as a fractal. But I keep encountering a familiar design question at different levels. A movement needs timing within a gesture. A gesture needs timing within a scene. The scene needs to hold together long enough for someone walking past to enter it.
-
-I am interested in whether a small vocabulary of relationships can remain useful as the composition grows.
-
-This is a substantial ambition for a porch whose atmosphere still depends on a cooler.
+I haven’t given the pirates this arrangement.
 
 ***
 
-What I want to trigger is a sequence that revs up and becomes another independent loop in the scene.
+They are currently benefiting from my personal attention, which has begun to wander.
 
-The bird keeps going. The soundtrack continues. Something else wakes up, develops its own rhythm, and joins the situation already in progress. You encounter this in games and rides: local sequences unfolding inside a world that continues around them.
+Watching people encounter the scene brings me back to something I remember from Bob Thomas’s biography of Walt Disney: Walt’s fascination with the park in operation, with people moving through it in waves.
 
-That is what I mean by systems resonating. Their overlaps keep producing moments. I am arranging the conditions, then walking outside to see what turns up.
+The people have rhythms too.
 
-This is probably why I remember the crowd-watching passages in Bob Thomas's biography of Walt Disney so vividly. What stayed with me was Walt's fascination with the park in operation, with people moving through it in waves.
-
-The people have rhythms too. They gather, pause, move on. An attraction releases a crowd into a place where other things are already happening. A family stops to look, and another family notices what they are looking at.
+They gather, pause, move on. An attraction releases a crowd into a place where other things are already happening. A family stops to look, and another family notices what they’re looking at.
 
 The audience becomes another moving part in the composition.
 
-I want a small amount of this on my porch. Enough activity that something can catch your attention, hold it, and give you a reason to look somewhere else.
+On my porch, someone leaning toward the chest may activate the captain. His response draws attention. Someone looks up from the treasure. The bird says something on its own schedule and acquires, through fortunate timing, the appearance of being involved.
 
-This is how I end up standing outside watching independent loops interact, convinced that one more modest addition will establish a functioning pirate economy.
+For a moment, the whole thing has more life than I put into any individual part.
+
+This encourages further investment.
 
 ***
 
-What I eventually want, and have not quite achieved, is for the lights, sound, and animatronic to catch a moment together. A gesture lands with a sound. The lighting gives it a little emphasis. Briefly, the porch has production values.
+What I eventually want, and have not quite achieved, is for the lights, sound, and animatronic to catch a moment together. A gesture lands with a sound. The lighting gives it a little emphasis.
+
+Briefly, the porch has production values.
 
 Then something drifts, and it still feels like a place where pirates are conducting business.
 
-The independent loops need enough of a relationship to produce those moments, with enough room between them that a missed cue doesn't make the whole scene look broken. They can come together, wander apart, and find each other again.
+The independent loops need enough of a relationship to produce those moments, with enough room between them that a missed cue costs us a flourish. The bird can continue. The scene can find another opportunity.
 
 Graceful vibe management.
 
-This is the standard I am pursuing. I would like the bird to participate in a coordinated theatrical event without becoming a single point of failure for maritime atmosphere.
+This is the standard I’m pursuing. I would like the bird to participate in a coordinated theatrical event without becoming a single point of failure for maritime atmosphere.
 
 ***
 
-I have been using the phrase *coherence over time* for a research direction in my studio.
+Inside, Hammond’s grandchildren have reached the kitchen. They’re hiding between stainless-steel counters while velociraptors search the room.
 
-It can sound abstract when I am talking about information: how sources remain traceable, how new material changes an interpretation, how separate components keep contributing to something intelligible.
+Earlier, the animals were attractions. Now they’re taking a considerable interest in the visitors.
 
-On the porch, I can point to what I mean.
+I watch for a moment.
 
-The scene has to keep making sense while conditions change. Darkness arrives. The ice melts. People come in bursts. A child stands somewhere I hadn't anticipated. Something slips out of position.
+I’ve been outside considering how much more responsive my own attraction could become.
+
+The film has some reservations.
+
+***
+
+I’ve been using the phrase *coherence over time* for a research direction in my studio.
+
+On the porch, it means the scene keeps making sense while conditions change. Darkness arrives. The ice melts. People come in bursts. A child stands somewhere I hadn’t anticipated. The captain starts talking over a particularly emphatic part of the soundtrack.
 
 I notice, adjust, and go back inside.
 
-The effect depends on that continuing attention. Eventually I would like some of the components to handle more of it themselves. For now, I am learning quite a lot by operating the thing.
+There’s pleasure in that attention. I get to see someone discover the chest, then notice the captain, then realize the bird has something to say. For a minute, they’re inside a small, ridiculous world we put together outside our house.
 
-Also, I enjoy it. I like that someone can walk up to our house and spend a minute inside a small, ridiculous world we put together for them.
+***
 
-With luck, they remember the glowing treasure, the captain, and the bird.
+Eventually, the crowds thinned.
 
-I will remember how much ice we used.
+I switched off the continuous audio and left the captain on motion activation, with the lights and a bucket of candy for anyone still making the rounds. The porch could handle a quieter evening with fewer demands on its operator.
 
-And somewhere around the kitchen scene in *Jurassic Park*, I will realize I need another bag.
+There are more elaborate arrangements I’d like to try next year. Coordinated sequences. Changes of atmosphere. Perhaps a little more responsibility for the bird.
+
+For the rest of that evening, the captain could greet the stragglers.
+
+I had another movie to watch.
+
+***
+
+Nicholas Cottrell is a designer, writer, and independent technology researcher whose work spans virtual reality, spatial computing, and enterprise software. His current research explores how people and machines share context and coordinate their actions.
+
+The repository accompanying this essay contains the source material, steering coordinates, and generation harness used to produce the text, along with notes on the final edits.
+
+For project inquiries, research collaborations, or a conversation about something you’re building, visit Brand Magical.

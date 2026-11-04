@@ -1,12 +1,12 @@
 {
   "index": 18,
-  "doc_offset": 17611,
-  "raw": "***\n\nI have been using the phrase *coherence over time* for a research direction in my studio.\n\nIt can sound abstract when I am talking about information: how sources remain traceable, how new material changes an interpretation, how separate components keep contributing to something intelligible.\n\nOn the porch, I can point to what I mean.\n\nThe scene has to keep making sense while conditions change. Darkness arrives. The ice melts. People come in bursts. A child stands somewhere I hadn't anticipated. Something slips out of position.\n\nI notice, adjust, and go back inside.\n\nThe effect depends on that continuing attention. Eventually I would like some of the components to handle more of it themselves. For now, I am learning quite a lot by operating the thing.\n\nAlso, I enjoy it. I like that someone can walk up to our house and spend a minute inside a small, ridiculous world we put together for them.\n\nWith luck, they remember the glowing treasure, the captain, and the bird.\n\nI will remember how much ice we used.\n\nAnd somewhere around the kitchen scene in *Jurassic Park*, I will realize I need another bag.\n",
+  "doc_offset": 20559,
+  "raw": "***\n\nInside, Hammond\u2019s grandchildren have reached the kitchen. They\u2019re hiding between stainless-steel counters while velociraptors search the room.\n\nEarlier, the animals were attractions. Now they\u2019re taking a considerable interest in the visitors.\n\nI watch for a moment.\n\nI\u2019ve been outside considering how much more responsive my own attraction could become.\n\nThe film has some reservations.\n\n",
   "sentences": [
     {
       "start": 5,
-      "end": 94,
-      "text": "I have been using the phrase *coherence over time* for a research direction in my studio.",
+      "end": 62,
+      "text": "Inside, Hammond\u2019s grandchildren have reached the kitchen.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -21,9 +21,9 @@
       }
     },
     {
-      "start": 96,
-      "end": 297,
-      "text": "It can sound abstract when I am talking about information: how sources remain traceable, how new material changes an interpretation, how separate components keep contributing to something intelligible.",
+      "start": 63,
+      "end": 147,
+      "text": "They\u2019re hiding between stainless-steel counters while velociraptors search the room.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -38,9 +38,9 @@
       }
     },
     {
-      "start": 299,
-      "end": 340,
-      "text": "On the porch, I can point to what I mean.",
+      "start": 149,
+      "end": 187,
+      "text": "Earlier, the animals were attractions.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -55,9 +55,9 @@
       }
     },
     {
-      "start": 342,
-      "end": 401,
-      "text": "The scene has to keep making sense while conditions change.",
+      "start": 188,
+      "end": 247,
+      "text": "Now they\u2019re taking a considerable interest in the visitors.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -72,9 +72,9 @@
       }
     },
     {
-      "start": 402,
-      "end": 419,
-      "text": "Darkness arrives.",
+      "start": 249,
+      "end": 270,
+      "text": "I watch for a moment.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -89,9 +89,9 @@
       }
     },
     {
-      "start": 420,
-      "end": 434,
-      "text": "The ice melts.",
+      "start": 272,
+      "end": 358,
+      "text": "I\u2019ve been outside considering how much more responsive my own attraction could become.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -106,196 +106,9 @@
       }
     },
     {
-      "start": 435,
-      "end": 457,
-      "text": "People come in bursts.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 458,
-      "end": 504,
-      "text": "A child stands somewhere I hadn't anticipated.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 505,
-      "end": 537,
-      "text": "Something slips out of position.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 539,
-      "end": 576,
-      "text": "I notice, adjust, and go back inside.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 578,
-      "end": 626,
-      "text": "The effect depends on that continuing attention.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 627,
-      "end": 706,
-      "text": "Eventually I would like some of the components to handle more of it themselves.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 707,
-      "end": 765,
-      "text": "For now, I am learning quite a lot by operating the thing.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 767,
-      "end": 784,
-      "text": "Also, I enjoy it.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 785,
-      "end": 907,
-      "text": "I like that someone can walk up to our house and spend a minute inside a small, ridiculous world we put together for them.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 909,
-      "end": 982,
-      "text": "With luck, they remember the glowing treasure, the captain, and the bird.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 984,
-      "end": 1021,
-      "text": "I will remember how much ice we used.",
-      "tier": "KEY",
-      "ground": "",
-      "vrgb": {
-        "concrete_abstract": null,
-        "individual_collective": null,
-        "past_future": null
-      },
-      "calibration": {
-        "speculation": null,
-        "tone": null,
-        "density": null
-      }
-    },
-    {
-      "start": 1023,
-      "end": 1116,
-      "text": "And somewhere around the kitchen scene in *Jurassic Park*, I will realize I need another bag.",
+      "start": 360,
+      "end": 391,
+      "text": "The film has some reservations.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {

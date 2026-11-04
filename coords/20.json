@@ -1,0 +1,160 @@
+{
+  "index": 20,
+  "doc_offset": 21583,
+  "raw": "***\n\nEventually, the crowds thinned.\n\nI switched off the continuous audio and left the captain on motion activation, with the lights and a bucket of candy for anyone still making the rounds. The porch could handle a quieter evening with fewer demands on its operator.\n\nThere are more elaborate arrangements I\u2019d like to try next year. Coordinated sequences. Changes of atmosphere. Perhaps a little more responsibility for the bird.\n\nFor the rest of that evening, the captain could greet the stragglers.\n\nI had another movie to watch.\n\n",
+  "sentences": [
+    {
+      "start": 5,
+      "end": 36,
+      "text": "Eventually, the crowds thinned.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 38,
+      "end": 190,
+      "text": "I switched off the continuous audio and left the captain on motion activation, with the lights and a bucket of candy for anyone still making the rounds.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 191,
+      "end": 267,
+      "text": "The porch could handle a quieter evening with fewer demands on its operator.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 269,
+      "end": 333,
+      "text": "There are more elaborate arrangements I\u2019d like to try next year.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 334,
+      "end": 356,
+      "text": "Coordinated sequences.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 357,
+      "end": 379,
+      "text": "Changes of atmosphere.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 380,
+      "end": 430,
+      "text": "Perhaps a little more responsibility for the bird.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 432,
+      "end": 501,
+      "text": "For the rest of that evening, the captain could greet the stragglers.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 503,
+      "end": 532,
+      "text": "I had another movie to watch.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    }
+  ]
+}

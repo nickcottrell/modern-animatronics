@@ -1,12 +1,12 @@
 {
   "index": 1,
-  "doc_offset": 668,
-  "raw": "***\n\nEvery Halloween, I assemble a small pirate scene. There are skeletons, foliage, lighting effects, a treasure chest, and an increasingly unreasonable amount of supporting infrastructure. Usually it spreads onto the lawn. This year, rain has forced the production onto the porch.\n\nThis has required some compromises in the geographical scale of the pirate world. The captain is now operating considerably closer to the welcome mat.\n\nBut I like the compression. Everything is within reach. I can see how the pieces fit together. What was previously a yard full of equipment has become a small stage.\n\nThe weather reduced the size of the attraction and improved access to its machinery. I am treating this as a design constraint.\n\nAnd on Halloween night, I am the ride operator.\n\n",
+  "doc_offset": 707,
+  "raw": "***\n\nEvery Halloween, I pay homage to the original Pirates of the Caribbean ride outside our house. There are skeletons, foliage, fog machines, lighting effects, a talking pirate, a talking bird, a treasure chest, and an increasingly unreasonable amount of supporting infrastructure.\n\nUsually, it spreads onto the lawn. This year, rain forced the production onto the porch.\n\nThis required some compromises in the geographical scale of the pirate world. The captain was now operating considerably closer to the welcome mat.\n\nBut I liked the compression. Everything was within reach. I could see how the pieces fit together. What had previously been a yard full of equipment became a small stage.\n\nThe weather reduced the size of the attraction and improved my access to its machinery. I counted this as a design feature. On Halloween night, I am also the attraction\u2019s primary and only ride operator, technician, and cast member.\n\n",
   "sentences": [
     {
       "start": 5,
-      "end": 54,
-      "text": "Every Halloween, I assemble a small pirate scene.",
+      "end": 99,
+      "text": "Every Halloween, I pay homage to the original Pirates of the Caribbean ride outside our house.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -21,9 +21,9 @@
       }
     },
     {
-      "start": 55,
-      "end": 190,
-      "text": "There are skeletons, foliage, lighting effects, a treasure chest, and an increasingly unreasonable amount of supporting infrastructure.",
+      "start": 100,
+      "end": 283,
+      "text": "There are skeletons, foliage, fog machines, lighting effects, a talking pirate, a talking bird, a treasure chest, and an increasingly unreasonable amount of supporting infrastructure.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -38,9 +38,9 @@
       }
     },
     {
-      "start": 191,
-      "end": 224,
-      "text": "Usually it spreads onto the lawn.",
+      "start": 285,
+      "end": 319,
+      "text": "Usually, it spreads onto the lawn.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -55,9 +55,9 @@
       }
     },
     {
-      "start": 225,
-      "end": 282,
-      "text": "This year, rain has forced the production onto the porch.",
+      "start": 320,
+      "end": 373,
+      "text": "This year, rain forced the production onto the porch.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -72,9 +72,9 @@
       }
     },
     {
-      "start": 284,
-      "end": 365,
-      "text": "This has required some compromises in the geographical scale of the pirate world.",
+      "start": 375,
+      "end": 452,
+      "text": "This required some compromises in the geographical scale of the pirate world.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -89,9 +89,9 @@
       }
     },
     {
-      "start": 366,
-      "end": 434,
-      "text": "The captain is now operating considerably closer to the welcome mat.",
+      "start": 453,
+      "end": 522,
+      "text": "The captain was now operating considerably closer to the welcome mat.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -106,9 +106,9 @@
       }
     },
     {
-      "start": 436,
-      "end": 463,
-      "text": "But I like the compression.",
+      "start": 524,
+      "end": 552,
+      "text": "But I liked the compression.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -123,9 +123,9 @@
       }
     },
     {
-      "start": 464,
-      "end": 491,
-      "text": "Everything is within reach.",
+      "start": 553,
+      "end": 581,
+      "text": "Everything was within reach.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -140,9 +140,9 @@
       }
     },
     {
-      "start": 492,
-      "end": 530,
-      "text": "I can see how the pieces fit together.",
+      "start": 582,
+      "end": 622,
+      "text": "I could see how the pieces fit together.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -157,9 +157,9 @@
       }
     },
     {
-      "start": 531,
-      "end": 601,
-      "text": "What was previously a yard full of equipment has become a small stage.",
+      "start": 623,
+      "end": 694,
+      "text": "What had previously been a yard full of equipment became a small stage.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -174,9 +174,9 @@
       }
     },
     {
-      "start": 603,
-      "end": 687,
-      "text": "The weather reduced the size of the attraction and improved access to its machinery.",
+      "start": 696,
+      "end": 783,
+      "text": "The weather reduced the size of the attraction and improved my access to its machinery.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -191,9 +191,9 @@
       }
     },
     {
-      "start": 688,
-      "end": 730,
-      "text": "I am treating this as a design constraint.",
+      "start": 784,
+      "end": 819,
+      "text": "I counted this as a design feature.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -208,9 +208,9 @@
       }
     },
     {
-      "start": 732,
-      "end": 779,
-      "text": "And on Halloween night, I am the ride operator.",
+      "start": 820,
+      "end": 927,
+      "text": "On Halloween night, I am also the attraction\u2019s primary and only ride operator, technician, and cast member.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {

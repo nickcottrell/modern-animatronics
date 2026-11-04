@@ -1,0 +1,194 @@
+{
+  "index": 19,
+  "doc_offset": 20952,
+  "raw": "***\n\nI\u2019ve been using the phrase *coherence over time* for a research direction in my studio.\n\nOn the porch, it means the scene keeps making sense while conditions change. Darkness arrives. The ice melts. People come in bursts. A child stands somewhere I hadn\u2019t anticipated. The captain starts talking over a particularly emphatic part of the soundtrack.\n\nI notice, adjust, and go back inside.\n\nThere\u2019s pleasure in that attention. I get to see someone discover the chest, then notice the captain, then realize the bird has something to say. For a minute, they\u2019re inside a small, ridiculous world we put together outside our house.\n\n",
+  "sentences": [
+    {
+      "start": 5,
+      "end": 92,
+      "text": "I\u2019ve been using the phrase *coherence over time* for a research direction in my studio.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 94,
+      "end": 170,
+      "text": "On the porch, it means the scene keeps making sense while conditions change.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 171,
+      "end": 188,
+      "text": "Darkness arrives.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 189,
+      "end": 203,
+      "text": "The ice melts.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 204,
+      "end": 226,
+      "text": "People come in bursts.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 227,
+      "end": 273,
+      "text": "A child stands somewhere I hadn\u2019t anticipated.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 274,
+      "end": 353,
+      "text": "The captain starts talking over a particularly emphatic part of the soundtrack.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 355,
+      "end": 392,
+      "text": "I notice, adjust, and go back inside.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 394,
+      "end": 429,
+      "text": "There\u2019s pleasure in that attention.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 430,
+      "end": 539,
+      "text": "I get to see someone discover the chest, then notice the captain, then realize the bird has something to say.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 540,
+      "end": 629,
+      "text": "For a minute, they\u2019re inside a small, ridiculous world we put together outside our house.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    }
+  ]
+}

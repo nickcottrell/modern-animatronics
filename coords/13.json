@@ -1,12 +1,12 @@
 {
   "index": 13,
-  "doc_offset": 12110,
-  "raw": "***\n\nLately I have been building a way to send structured information through something people usually encounter as a picture.\n\nA QR code can sit there waiting to be scanned. A sequence of QR codes gives you time to work with.\n\nYou can divide a payload across frames and repeat the sequence, allowing a receiver to collect pieces as it encounters them. It can arrive partway through. It can miss a frame and catch it on another pass.\n\nThen the composition of the sequence becomes a design problem. Which pieces repeat most often? What should appear between them? How much information belongs in each frame? How long does a receiver need to watch before it has enough?\n\nEvery repetition spends some of the channel's available time on reliability. The changing picture carries a structure that becomes available through time.\n\nFrom the outside, you see a flickering square. At the receiving end, something is assembling.\n\nThe important distinction is that receiving the data correctly doesn't establish what it means. That depends on the receiving system and its rules.\n\nI can deliver a perfectly intact instruction to a pirate. We still need an agreement about what constitutes an appropriate response.\n\n",
+  "doc_offset": 14477,
+  "raw": "***\n\nThe attraction already works. People stop, look, take photographs. Occasionally, someone very small decides the captain is too much pirate, and Alan Grant assists with negotiations.\n\nMy dissatisfaction is more specialized.\n\nI can imagine the whole scene changing character for a while. The lights shift. The soundtrack builds. A few movements land together, and suddenly there\u2019s a pirate battle underway. Then the excitement subsides into something quieter: water, insects, a low-lit chest, the suggestion of a bayou with unresolved historical problems.\n\nThe bird continues to offer its perspective.\n\nI want those larger changes to pass through the scene like waves. Each component could participate in a short sequence, then return to its usual activity. Another sequence could begin while the rest of the world keeps running.\n\nThat leaves some decisions to make.\n\nWhat does each component need to receive? A command for every movement? A cue to begin a sequence it already knows? Some description of the current mood, with rules for how it should contribute?\n\nAnd if it misses the message, could it catch enough of the next one to join in?\n\nI\u2019m standing beside a treasure chest considering how a pirate might acquire context incrementally.\n\n",
   "sentences": [
     {
       "start": 5,
-      "end": 126,
-      "text": "Lately I have been building a way to send structured information through something people usually encounter as a picture.",
+      "end": 34,
+      "text": "The attraction already works.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -21,9 +21,9 @@
       }
     },
     {
-      "start": 128,
-      "end": 174,
-      "text": "A QR code can sit there waiting to be scanned.",
+      "start": 35,
+      "end": 71,
+      "text": "People stop, look, take photographs.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -38,9 +38,9 @@
       }
     },
     {
-      "start": 175,
-      "end": 226,
-      "text": "A sequence of QR codes gives you time to work with.",
+      "start": 72,
+      "end": 186,
+      "text": "Occasionally, someone very small decides the captain is too much pirate, and Alan Grant assists with negotiations.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -55,9 +55,9 @@
       }
     },
     {
-      "start": 228,
-      "end": 352,
-      "text": "You can divide a payload across frames and repeat the sequence, allowing a receiver to collect pieces as it encounters them.",
+      "start": 188,
+      "end": 227,
+      "text": "My dissatisfaction is more specialized.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -72,9 +72,9 @@
       }
     },
     {
-      "start": 353,
-      "end": 383,
-      "text": "It can arrive partway through.",
+      "start": 229,
+      "end": 290,
+      "text": "I can imagine the whole scene changing character for a while.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -89,9 +89,9 @@
       }
     },
     {
-      "start": 384,
-      "end": 433,
-      "text": "It can miss a frame and catch it on another pass.",
+      "start": 291,
+      "end": 308,
+      "text": "The lights shift.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -106,9 +106,9 @@
       }
     },
     {
-      "start": 435,
-      "end": 497,
-      "text": "Then the composition of the sequence becomes a design problem.",
+      "start": 309,
+      "end": 331,
+      "text": "The soundtrack builds.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -123,9 +123,9 @@
       }
     },
     {
-      "start": 498,
-      "end": 529,
-      "text": "Which pieces repeat most often?",
+      "start": 332,
+      "end": 409,
+      "text": "A few movements land together, and suddenly there\u2019s a pirate battle underway.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -140,9 +140,9 @@
       }
     },
     {
-      "start": 530,
-      "end": 562,
-      "text": "What should appear between them?",
+      "start": 410,
+      "end": 558,
+      "text": "Then the excitement subsides into something quieter: water, insects, a low-lit chest, the suggestion of a bayou with unresolved historical problems.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -157,9 +157,9 @@
       }
     },
     {
-      "start": 563,
-      "end": 606,
-      "text": "How much information belongs in each frame?",
+      "start": 560,
+      "end": 604,
+      "text": "The bird continues to offer its perspective.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -174,9 +174,9 @@
       }
     },
     {
-      "start": 607,
-      "end": 667,
-      "text": "How long does a receiver need to watch before it has enough?",
+      "start": 606,
+      "end": 671,
+      "text": "I want those larger changes to pass through the scene like waves.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -191,9 +191,9 @@
       }
     },
     {
-      "start": 669,
-      "end": 745,
-      "text": "Every repetition spends some of the channel's available time on reliability.",
+      "start": 672,
+      "end": 760,
+      "text": "Each component could participate in a short sequence, then return to its usual activity.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -208,9 +208,9 @@
       }
     },
     {
-      "start": 746,
-      "end": 823,
-      "text": "The changing picture carries a structure that becomes available through time.",
+      "start": 761,
+      "end": 832,
+      "text": "Another sequence could begin while the rest of the world keeps running.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -225,9 +225,9 @@
       }
     },
     {
-      "start": 825,
-      "end": 871,
-      "text": "From the outside, you see a flickering square.",
+      "start": 834,
+      "end": 869,
+      "text": "That leaves some decisions to make.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -242,9 +242,9 @@
       }
     },
     {
-      "start": 872,
-      "end": 918,
-      "text": "At the receiving end, something is assembling.",
+      "start": 871,
+      "end": 912,
+      "text": "What does each component need to receive?",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -259,9 +259,9 @@
       }
     },
     {
-      "start": 920,
-      "end": 1015,
-      "text": "The important distinction is that receiving the data correctly doesn't establish what it means.",
+      "start": 913,
+      "end": 942,
+      "text": "A command for every movement?",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -276,9 +276,9 @@
       }
     },
     {
-      "start": 1016,
-      "end": 1067,
-      "text": "That depends on the receiving system and its rules.",
+      "start": 943,
+      "end": 986,
+      "text": "A cue to begin a sequence it already knows?",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -293,9 +293,9 @@
       }
     },
     {
-      "start": 1069,
-      "end": 1126,
-      "text": "I can deliver a perfectly intact instruction to a pirate.",
+      "start": 987,
+      "end": 1065,
+      "text": "Some description of the current mood, with rules for how it should contribute?",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -310,9 +310,26 @@
       }
     },
     {
-      "start": 1127,
-      "end": 1201,
-      "text": "We still need an agreement about what constitutes an appropriate response.",
+      "start": 1067,
+      "end": 1146,
+      "text": "And if it misses the message, could it catch enough of the next one to join in?",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 1148,
+      "end": 1246,
+      "text": "I\u2019m standing beside a treasure chest considering how a pirate might acquire context incrementally.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {

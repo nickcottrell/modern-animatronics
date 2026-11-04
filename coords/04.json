@@ -1,12 +1,12 @@
 {
   "index": 4,
-  "doc_offset": 3751,
-  "raw": "***\n\nThe movie could also serve as a clock.\n\nEarly in the evening, everyone is arriving on the island. Outside, the lights are coming into their own, the first families are approaching, and I still have an optimistic relationship with my ice supply.\n\nLater, I come back inside and discover that the tour has encountered difficulties.\n\nOutside, a large group of teenagers has arrived. Someone wants a photograph. A younger child needs a little encouragement. We need more candy, and the fog is beginning to rise.\n\nBy the time the characters are crawling through the infrastructure, I may be doing something similar behind a plastic palm.\n\nThese are provisional timings. Halloween has not happened yet, and I cannot guarantee that our operational failures will align with the screenplay.\n\nBut I appreciate having a reference system.\n\n",
+  "doc_offset": 4448,
+  "raw": "***\n\nOutside, the lights were coming into their own. Families were approaching, and I still had an optimistic relationship with my ice supply. Anyone coming through the rain deserved a substantial handful of candy.\n\nEach trip through the front door interrupted one attraction with the demands of another.\n\nA photograph. More candy. A small child considering whether the captain could be trusted. A quick inspection of the chest.\n\nBack inside, the tour vehicles were stopped beside the Tyrannosaurus enclosure in a tropical storm. The electric fence had lost power. A glass of water began to tremble.\n\nI had missed some developments.\n\nThis is one disadvantage of operating an attraction while watching *Jurassic Park*. You return to discover that several of your management assumptions are being examined at considerable volume.\n\nI went back out to check the fog.\n\n",
   "sentences": [
     {
       "start": 5,
-      "end": 43,
-      "text": "The movie could also serve as a clock.",
+      "end": 52,
+      "text": "Outside, the lights were coming into their own.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -21,9 +21,9 @@
       }
     },
     {
-      "start": 45,
-      "end": 102,
-      "text": "Early in the evening, everyone is arriving on the island.",
+      "start": 53,
+      "end": 142,
+      "text": "Families were approaching, and I still had an optimistic relationship with my ice supply.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -38,9 +38,9 @@
       }
     },
     {
-      "start": 103,
-      "end": 249,
-      "text": "Outside, the lights are coming into their own, the first families are approaching, and I still have an optimistic relationship with my ice supply.",
+      "start": 143,
+      "end": 214,
+      "text": "Anyone coming through the rain deserved a substantial handful of candy.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -55,9 +55,9 @@
       }
     },
     {
-      "start": 251,
-      "end": 333,
-      "text": "Later, I come back inside and discover that the tour has encountered difficulties.",
+      "start": 216,
+      "end": 304,
+      "text": "Each trip through the front door interrupted one attraction with the demands of another.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -72,9 +72,9 @@
       }
     },
     {
-      "start": 335,
-      "end": 383,
-      "text": "Outside, a large group of teenagers has arrived.",
+      "start": 306,
+      "end": 319,
+      "text": "A photograph.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -89,9 +89,9 @@
       }
     },
     {
-      "start": 384,
-      "end": 411,
-      "text": "Someone wants a photograph.",
+      "start": 320,
+      "end": 331,
+      "text": "More candy.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -106,9 +106,9 @@
       }
     },
     {
-      "start": 412,
-      "end": 457,
-      "text": "A younger child needs a little encouragement.",
+      "start": 332,
+      "end": 395,
+      "text": "A small child considering whether the captain could be trusted.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -123,9 +123,9 @@
       }
     },
     {
-      "start": 458,
-      "end": 511,
-      "text": "We need more candy, and the fog is beginning to rise.",
+      "start": 396,
+      "end": 428,
+      "text": "A quick inspection of the chest.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -140,9 +140,9 @@
       }
     },
     {
-      "start": 513,
-      "end": 636,
-      "text": "By the time the characters are crawling through the infrastructure, I may be doing something similar behind a plastic palm.",
+      "start": 430,
+      "end": 529,
+      "text": "Back inside, the tour vehicles were stopped beside the Tyrannosaurus enclosure in a tropical storm.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -157,9 +157,9 @@
       }
     },
     {
-      "start": 638,
-      "end": 668,
-      "text": "These are provisional timings.",
+      "start": 530,
+      "end": 564,
+      "text": "The electric fence had lost power.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -174,9 +174,9 @@
       }
     },
     {
-      "start": 669,
-      "end": 785,
-      "text": "Halloween has not happened yet, and I cannot guarantee that our operational failures will align with the screenplay.",
+      "start": 565,
+      "end": 599,
+      "text": "A glass of water began to tremble.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
@@ -191,9 +191,60 @@
       }
     },
     {
-      "start": 787,
-      "end": 830,
-      "text": "But I appreciate having a reference system.",
+      "start": 601,
+      "end": 632,
+      "text": "I had missed some developments.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 634,
+      "end": 717,
+      "text": "This is one disadvantage of operating an attraction while watching *Jurassic Park*.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 718,
+      "end": 827,
+      "text": "You return to discover that several of your management assumptions are being examined at considerable volume.",
+      "tier": "KEY",
+      "ground": "",
+      "vrgb": {
+        "concrete_abstract": null,
+        "individual_collective": null,
+        "past_future": null
+      },
+      "calibration": {
+        "speculation": null,
+        "tone": null,
+        "density": null
+      }
+    },
+    {
+      "start": 829,
+      "end": 862,
+      "text": "I went back out to check the fog.",
       "tier": "KEY",
       "ground": "",
       "vrgb": {
