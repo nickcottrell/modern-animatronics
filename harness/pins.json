@@ -7,32 +7,6 @@
   },
   "gate": {
     "card": "sd:touchstone",
-    "note": "Model is runnable only while this SD card is seated. Minting is physically gated."
-  },
-  "acceptance": {
-    "verified_at": "2026-11-03",
-    "prompt": "Write one wry, concrete, present-tense sentence carrying this fact: ice in a cooler chills the fog before it reaches the treasure chest. Output only the sentence.",
-    "output": "Ice in the cooler absorbs the chill from the fog, safeguarding the treasure chest below.",
-    "note": "Two identical engine_run calls returned byte-identical text. Determinism is live."
-  },
-  "baseline_anchor": {
-    "body": {
-      "label": "baseline",
-      "essay_sha256": "c92101874d3f07bf87cd226ff3bdf0a598781add0c97d137f9eccb670665f4fc",
-      "commit": "d1f26af9c5c51ea0952cfea7d51113717b8b4bdf",
-      "signed_at": "2026-11-03T18:28:00Z"
-    },
-    "signer": "e8f2097f81af3d69",
-    "signature": "CsGc3ck15pZaCRXonGnE2W295TcRrwTJJ69LPmVf7eMsF+ydIpyGDovf0ShGzi/3OrW73sJrKw/oY+ISqRrmDA=="
-  },
-  "final_anchor": {
-    "body": {
-      "label": "final",
-      "essay_sha256": "256cc7c19a2877d844458a4edab59b631bb5aa30c30cc6c1b4ab23070f1dcb83",
-      "commit": "261105a8d09f8b35e90870753adf6e673d576684",
-      "signed_at": "2026-11-03T18:28:00Z"
-    },
-    "signer": "e8f2097f81af3d69",
-    "signature": "sEix7fMvoUU9VFZP7rmn3AO7Y1dB9yEcg5JH6+cDs9csdPhHD3diPnHPflxsVkbdpovsgOagszlRASM0sjeGDw=="
+    "note": "The model is runnable only while this SD card is seated and reachable over MCP. Minting is physically gated."
   }
 }

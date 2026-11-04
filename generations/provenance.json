@@ -1,0 +1,24 @@
+{
+  "model": "engine/qwen2.5-14b-touchstone",
+  "sd_card": "sd:touchstone",
+  "reached_via": "mcp",
+  "decode": {
+    "temperature": 0.7,
+    "seed": 1
+  },
+  "source_sha256": "05e4357aa7aa24def9f0c5b781a77010268c75859a00c8f50d442f20ae9d3f10",
+  "draft_sha256": "55f866743d763427044e49b340e76fb5a620cf7b44bf2c412a79639c3b618199",
+  "note": "re-running this lands very close, not necessarily identical",
+  "generated": [
+    {
+      "section": 2,
+      "sentence": 14,
+      "ground": "the cooler holds ice, and the ice chills the fog before it reaches the chest",
+      "system": "Dry, understated, present-tense. A software person narrating a Halloween porch attraction as if filing a calm operational report. Concrete nouns over abstractions. The joke is in the deadpan, never announced. One idea per sentence. No exclamation, no hype, no summary of what was just said. Never use: em dash, exclamation point, rhetorical questions stacked, hype adjectives.",
+      "prompt": "Here is a passage from an essay with one sentence removed, marked [___]:\n\n***\n\nThe treasure chest requires the most supervision.\n\nThere is no candy in it. It contains fake treasure, artifacts, and a skull, arranged and hot-glued into a composition suggesting several poor decisions were made during an expedition.\n\nA green light illuminates it from inside. Fog arrives through a pipe connected to a modified cooler. In the dark, the chest appears to contain something you should probably leave alone.\n\nNaturally, children want to look inside.\n\nThis is one of the satisfying things about building a scene. You arrange some objects, give them light and atmosphere, and people begin supplying the story. A skull sitting on a table is a decoration. A skull half-visible inside a glowing, smoking treasure chest raises questions.\n\nI don\u2019t need to answer most of them. I need to keep the fog cold.\n\nThat turns out to be an actual job.\n\n[___] When the effect is working, the fog spills over the edges and settles in a way that feels appropriately supernatural. As the ice melts, its behavior changes. Eventually, the chest just spews stage fog onto the porch, making it look more like a heavy metal show.\n\nThe machine works. The scene is breaking down.\n\nThe ice is a consumable, which means the atmosphere has an operating budget and a maintenance schedule.\n\nWrite the single sentence that belongs at [___]. It must carry this fact: the cooler holds ice, and the ice chills the fog before it reaches the chest. Match the surrounding voice exactly: plain, concrete, present tense. Output only the sentence.",
+      "output": "The cooler contains ice that chills the fog before it enters the chest.",
+      "gguf_ok": true,
+      "human_anchor": "ctx_model_engine_qwen2_5_14b_touchstone_1782433767"
+    }
+  ]
+}
