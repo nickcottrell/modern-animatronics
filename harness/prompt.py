@@ -71,8 +71,22 @@ def coordinate_lines(rec):
     return lines
 
 
-def build_prompt(rec, voice):
-    """Return (system, prompt) for a STEERED sentence. Deterministic."""
+def gapped_context(rec, section):
+    """The section's locked prose with ONLY the target sentence removed, marked
+    [___]. The wider locked net: the model sees the voice it must match, but
+    never the target's own words, so the KEY/STEERED measurement still holds."""
+    raw = section["raw"]
+    return (raw[:rec["start"]] + "[___]" + raw[rec["end"]:]).strip()
+
+
+def build_prompt(rec, voice, section=None):
+    """Return (system, prompt) for a STEERED sentence. Deterministic.
+
+    Two modes. Default: the sentence is rebuilt from coordinates alone (ground +
+    axes + knobs), in a vacuum. Opt-in per sentence via "grounding": "section":
+    the sentence is generated to fill a gap in its own locked section, so it
+    matches the surrounding voice in situ. The target's verbatim never appears.
+    """
     stance = (voice or {}).get("stance", "")
     forbid = (voice or {}).get("forbid") or []
 
@@ -82,6 +96,19 @@ def build_prompt(rec, voice):
     if forbid:
         system_parts.append("Never use: " + ", ".join(forbid) + ".")
     system = " ".join(system_parts)
+
+    if rec.get("grounding") == "section" and section is not None:
+        context = gapped_context(rec, section)
+        ground = (rec.get("ground") or "").strip()
+        prompt = (
+            "Here is a passage from an essay with one sentence removed, marked [___]:\n\n"
+            + context
+            + "\n\nWrite the single sentence that belongs at [___]. It must carry this fact: "
+            + ground
+            + ". Match the surrounding voice exactly: plain, concrete, present tense. "
+            "Output only the sentence."
+        )
+        return system, prompt
 
     body = coordinate_lines(rec)
     body.append("Write exactly one sentence at these coordinates. Output only the sentence.")

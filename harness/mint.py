@@ -46,7 +46,7 @@ def build_plan(repo_root):
     for section in sections:
         for i, sent in enumerate(section["sentences"]):
             if sent["tier"] == record.STEERED:
-                system, prompt = prompt_mod.build_prompt(sent, voice)
+                system, prompt = prompt_mod.build_prompt(sent, voice, section)
                 plan.append({
                     "section": section["index"],
                     "sentence": i,
@@ -84,7 +84,7 @@ def mint_detailed(repo_root, write=True, pins=None):
         for i, sent in enumerate(section["sentences"]):
             if sent["tier"] != record.STEERED:
                 continue
-            system, prompt = prompt_mod.build_prompt(sent, voice)
+            system, prompt = prompt_mod.build_prompt(sent, voice, section)
             text, receipt = jeff_bridge.mint_one(pins, system, prompt)
             rendered[(section["index"], i)] = text
             verification = receipt.get("verification", {})

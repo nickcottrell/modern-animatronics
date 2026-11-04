@@ -1,0 +1,72 @@
+{
+  "body": {
+    "schema": "modern-animatronics/custody/1",
+    "minted_at": "2026-11-04T01:22:20Z",
+    "prev": "0cf87d398d6751c19115787c62758a368a22b86780083ccc7d8f7b8d3553c9e7",
+    "dataset": {
+      "files": {
+        "coords/00.json": "9fa029213198cc135d8be77e4b212cdc8574528fc880dad0a12e3165bd086fb2",
+        "coords/01.json": "c98754068f834175c7ba6d4fa3697d9f7a939c536ff0331c18a0f7a5eeed8d0f",
+        "coords/02.json": "a6d4e7a838d2dd9d0f2960cc887bff4a97c792fbf91245bcbd35de7fa0b51e25",
+        "coords/03.json": "4f0668ba95791b72bf8327fa86f58c5d05f01754c64f5417df58212a0631f8e1",
+        "coords/04.json": "2d554219c85b9083e0cfe273e51681220b5da5ff7641e8f4ea5c4c84856b5ef3",
+        "coords/05.json": "fe3ef90b3da758573df42939a7616292e90a8f55404e7e80925e0eb2b05cc9ae",
+        "coords/06.json": "0635468cec49f4f54221faaf61f2de918420b84ab9edee350350c38ba628b759",
+        "coords/07.json": "af04a25dfc7e116c6ccab24a82c7b0eca30f4f07a8138ec79b94adabe9078930",
+        "coords/08.json": "bcf5b64a5fce7fac3d53188095925c8cf8ee4723d89120d393742cbaa8e97470",
+        "coords/09.json": "407550bc7548d7269d6714960aea2772b9d848140bf062714800da64b56439cf",
+        "coords/10.json": "bd36e8ace293c63f06a9b0c13b49151a3f7e95c1cd1f7691d191cc6a8c469a9f",
+        "coords/11.json": "17e0d8714fd47106ad4b5e46496c7fc8ca9a453ca2342f6369f48b22924d3c6e",
+        "coords/12.json": "0c7cdcd7e9ad5bd9d3841356ede376f1f5704c0b147f8e71271cc05b183e4276",
+        "coords/13.json": "1aed170df9241f606e236f5793e80ea4af082a925d11942dab6fbcc24289b006",
+        "coords/14.json": "2b7007b446a95e5bb8822fd7931384e3d5de0aa1dc8abae9f391b975b5889d9a",
+        "coords/15.json": "43faa9a24647ef2b66afa91e102bbe055d7ddb6dc78f17e37d0c5df3bdb2560e",
+        "coords/16.json": "a92632e3ee4673ea91bf831f871f47786fa716012e9f5475b9c3cafe71adebdc",
+        "coords/17.json": "caa82006a423ad2566ab911afcde2702c87ddb857ac95476725dcae0e5311ee5",
+        "coords/18.json": "3e431526e14e0ee08d1f0ad9e5f251d5b7b1cafa07c0402591419b1e8ab6c58d",
+        "coords/19.json": "3e3aa6a19e1503fb86fe8e7af2727398059e9f6c260ca20fd88bcc540c43d0c5",
+        "coords/20.json": "6f05295a9e656377c34ed5e58bd018ae2f26417cb21539cc5428c0408b6c537a",
+        "coords/21.json": "485df9e349e335e197beec5457a0f01b5bba45750f1d100e4505816619634d21",
+        "coords/_doc.json": "384a7be406ce2387e894859c56a3e79668bf06070844e758defc4b42f1074d41",
+        "coords/_voice.json": "961df750e23175cb5824b4500cbd37f6b08c5664949822b29d43aa29a0430115"
+      },
+      "source": {
+        "path": "source/essay.locked.md",
+        "sha256": "05e4357aa7aa24def9f0c5b781a77010268c75859a00c8f50d442f20ae9d3f10"
+      },
+      "dataset_root": "803d5b8d36b5258c6dc0725c4e1e748ef454f2f3f286ad877a9acd9d4ce1d50b"
+    },
+    "model": {
+      "model_ref": "engine/qwen2.5-14b-touchstone",
+      "card": "sd:touchstone",
+      "decode": {
+        "temperature": 0.7,
+        "seed": 1
+      },
+      "human_anchor": "ctx_model_engine_qwen2_5_14b_touchstone_1782433767",
+      "gguf_ok": true
+    },
+    "output": {
+      "sha256": "55f866743d763427044e49b340e76fb5a620cf7b44bf2c412a79639c3b618199",
+      "bytes": 22782,
+      "steered": 1
+    },
+    "per_sentence": [
+      {
+        "section": 2,
+        "sentence": 14,
+        "ground": "the cooler holds ice, and the ice chills the fog before it reaches the chest",
+        "prompt_sha256": "c934736777ec89c73dd39c886334fd38c9e50a4bec2a2ca8b4ff037215df9d3e",
+        "text": "The cooler contains ice that chills the fog before it enters the chest.",
+        "text_sha256": "f4850e8c1bd0489747a6c8dd0eb2c9cfaca3d7264c3bb4bd967e0ca41db4adb8",
+        "byline": "qwen2.5-14b",
+        "human_anchor": "ctx_model_engine_qwen2_5_14b_touchstone_1782433767",
+        "gguf_ok": true
+      }
+    ]
+  },
+  "body_sha256": "361039462da466e95ae1cefd47d3da44f33e9fde180ee2041763d73b152a4f9a",
+  "signer": "e8f2097f81af3d69",
+  "signature": "Ps8a+O6wObjTTbcdNKo752ioqqIHrtn4Pan71jk5HbTXHW1d1+jCmqKZlCT3gZqDHqTw7Qbgi0xEl9fTS9vyDA==",
+  "receipt_sha256": "d1560e3d42efce454a4fb63dd7949a4b0cf82c81a445b8488d1cba4393049e5f"
+}
